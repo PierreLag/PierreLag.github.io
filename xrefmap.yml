@@ -1494,19 +1494,6 @@ references:
   commentId: T:MasterMot.APIManager
   fullName: MasterMot.APIManager
   nameWithType: APIManager
-- uid: MasterMot.APIManager.GetDailyWord
-  name: GetDailyWord()
-  href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetDailyWord
-  commentId: M:MasterMot.APIManager.GetDailyWord
-  fullName: MasterMot.APIManager.GetDailyWord()
-  nameWithType: APIManager.GetDailyWord()
-- uid: MasterMot.APIManager.GetDailyWord*
-  name: GetDailyWord
-  href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetDailyWord_
-  commentId: Overload:MasterMot.APIManager.GetDailyWord
-  isSpec: "True"
-  fullName: MasterMot.APIManager.GetDailyWord
-  nameWithType: APIManager.GetDailyWord
 - uid: MasterMot.APIManager.GetEasyWord
   name: GetEasyWord()
   href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetEasyWord
@@ -1546,19 +1533,6 @@ references:
   isSpec: "True"
   fullName: MasterMot.APIManager.GetMediumWord
   nameWithType: APIManager.GetMediumWord
-- uid: MasterMot.APIManager.GetRandomWord
-  name: GetRandomWord()
-  href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetRandomWord
-  commentId: M:MasterMot.APIManager.GetRandomWord
-  fullName: MasterMot.APIManager.GetRandomWord()
-  nameWithType: APIManager.GetRandomWord()
-- uid: MasterMot.APIManager.GetRandomWord*
-  name: GetRandomWord
-  href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetRandomWord_
-  commentId: Overload:MasterMot.APIManager.GetRandomWord
-  isSpec: "True"
-  fullName: MasterMot.APIManager.GetRandomWord
-  nameWithType: APIManager.GetRandomWord
 - uid: MasterMot.AudioController
   name: AudioController
   href: api/MasterMot.AudioController.html
