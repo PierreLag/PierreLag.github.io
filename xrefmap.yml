@@ -1,0 +1,2697 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: DG.Tweening
+  name: DG.Tweening
+  href: api/DG.Tweening.html
+  commentId: N:DG.Tweening
+  fullName: DG.Tweening
+  nameWithType: DG.Tweening
+- uid: DG.Tweening.DOTweenCYInstruction
+  name: DOTweenCYInstruction
+  href: api/DG.Tweening.DOTweenCYInstruction.html
+  commentId: T:DG.Tweening.DOTweenCYInstruction
+  fullName: DG.Tweening.DOTweenCYInstruction
+  nameWithType: DOTweenCYInstruction
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForCompletion
+  name: DOTweenCYInstruction.WaitForCompletion
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForCompletion.html
+  commentId: T:DG.Tweening.DOTweenCYInstruction.WaitForCompletion
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForCompletion
+  nameWithType: DOTweenCYInstruction.WaitForCompletion
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForCompletion.#ctor(DG.Tweening.Tween)
+  name: WaitForCompletion(Tween)
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForCompletion.html#DG_Tweening_DOTweenCYInstruction_WaitForCompletion__ctor_DG_Tweening_Tween_
+  commentId: M:DG.Tweening.DOTweenCYInstruction.WaitForCompletion.#ctor(DG.Tweening.Tween)
+  name.vb: New(Tween)
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForCompletion.WaitForCompletion(DG.Tweening.Tween)
+  fullName.vb: DG.Tweening.DOTweenCYInstruction.WaitForCompletion.New(DG.Tweening.Tween)
+  nameWithType: DOTweenCYInstruction.WaitForCompletion.WaitForCompletion(Tween)
+  nameWithType.vb: DOTweenCYInstruction.WaitForCompletion.New(Tween)
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForCompletion.#ctor*
+  name: WaitForCompletion
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForCompletion.html#DG_Tweening_DOTweenCYInstruction_WaitForCompletion__ctor_
+  commentId: Overload:DG.Tweening.DOTweenCYInstruction.WaitForCompletion.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForCompletion.WaitForCompletion
+  fullName.vb: DG.Tweening.DOTweenCYInstruction.WaitForCompletion.New
+  nameWithType: DOTweenCYInstruction.WaitForCompletion.WaitForCompletion
+  nameWithType.vb: DOTweenCYInstruction.WaitForCompletion.New
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForCompletion.keepWaiting
+  name: keepWaiting
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForCompletion.html#DG_Tweening_DOTweenCYInstruction_WaitForCompletion_keepWaiting
+  commentId: P:DG.Tweening.DOTweenCYInstruction.WaitForCompletion.keepWaiting
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForCompletion.keepWaiting
+  nameWithType: DOTweenCYInstruction.WaitForCompletion.keepWaiting
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForCompletion.keepWaiting*
+  name: keepWaiting
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForCompletion.html#DG_Tweening_DOTweenCYInstruction_WaitForCompletion_keepWaiting_
+  commentId: Overload:DG.Tweening.DOTweenCYInstruction.WaitForCompletion.keepWaiting
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForCompletion.keepWaiting
+  nameWithType: DOTweenCYInstruction.WaitForCompletion.keepWaiting
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops
+  name: DOTweenCYInstruction.WaitForElapsedLoops
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.html
+  commentId: T:DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops
+  nameWithType: DOTweenCYInstruction.WaitForElapsedLoops
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.#ctor(DG.Tweening.Tween,System.Int32)
+  name: WaitForElapsedLoops(Tween, int)
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.html#DG_Tweening_DOTweenCYInstruction_WaitForElapsedLoops__ctor_DG_Tweening_Tween_System_Int32_
+  commentId: M:DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.#ctor(DG.Tweening.Tween,System.Int32)
+  name.vb: New(Tween, Integer)
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.WaitForElapsedLoops(DG.Tweening.Tween, int)
+  fullName.vb: DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.New(DG.Tweening.Tween, Integer)
+  nameWithType: DOTweenCYInstruction.WaitForElapsedLoops.WaitForElapsedLoops(Tween, int)
+  nameWithType.vb: DOTweenCYInstruction.WaitForElapsedLoops.New(Tween, Integer)
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.#ctor*
+  name: WaitForElapsedLoops
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.html#DG_Tweening_DOTweenCYInstruction_WaitForElapsedLoops__ctor_
+  commentId: Overload:DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.WaitForElapsedLoops
+  fullName.vb: DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.New
+  nameWithType: DOTweenCYInstruction.WaitForElapsedLoops.WaitForElapsedLoops
+  nameWithType.vb: DOTweenCYInstruction.WaitForElapsedLoops.New
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.keepWaiting
+  name: keepWaiting
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.html#DG_Tweening_DOTweenCYInstruction_WaitForElapsedLoops_keepWaiting
+  commentId: P:DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.keepWaiting
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.keepWaiting
+  nameWithType: DOTweenCYInstruction.WaitForElapsedLoops.keepWaiting
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.keepWaiting*
+  name: keepWaiting
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.html#DG_Tweening_DOTweenCYInstruction_WaitForElapsedLoops_keepWaiting_
+  commentId: Overload:DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.keepWaiting
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.keepWaiting
+  nameWithType: DOTweenCYInstruction.WaitForElapsedLoops.keepWaiting
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForKill
+  name: DOTweenCYInstruction.WaitForKill
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForKill.html
+  commentId: T:DG.Tweening.DOTweenCYInstruction.WaitForKill
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForKill
+  nameWithType: DOTweenCYInstruction.WaitForKill
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForKill.#ctor(DG.Tweening.Tween)
+  name: WaitForKill(Tween)
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForKill.html#DG_Tweening_DOTweenCYInstruction_WaitForKill__ctor_DG_Tweening_Tween_
+  commentId: M:DG.Tweening.DOTweenCYInstruction.WaitForKill.#ctor(DG.Tweening.Tween)
+  name.vb: New(Tween)
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForKill.WaitForKill(DG.Tweening.Tween)
+  fullName.vb: DG.Tweening.DOTweenCYInstruction.WaitForKill.New(DG.Tweening.Tween)
+  nameWithType: DOTweenCYInstruction.WaitForKill.WaitForKill(Tween)
+  nameWithType.vb: DOTweenCYInstruction.WaitForKill.New(Tween)
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForKill.#ctor*
+  name: WaitForKill
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForKill.html#DG_Tweening_DOTweenCYInstruction_WaitForKill__ctor_
+  commentId: Overload:DG.Tweening.DOTweenCYInstruction.WaitForKill.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForKill.WaitForKill
+  fullName.vb: DG.Tweening.DOTweenCYInstruction.WaitForKill.New
+  nameWithType: DOTweenCYInstruction.WaitForKill.WaitForKill
+  nameWithType.vb: DOTweenCYInstruction.WaitForKill.New
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForKill.keepWaiting
+  name: keepWaiting
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForKill.html#DG_Tweening_DOTweenCYInstruction_WaitForKill_keepWaiting
+  commentId: P:DG.Tweening.DOTweenCYInstruction.WaitForKill.keepWaiting
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForKill.keepWaiting
+  nameWithType: DOTweenCYInstruction.WaitForKill.keepWaiting
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForKill.keepWaiting*
+  name: keepWaiting
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForKill.html#DG_Tweening_DOTweenCYInstruction_WaitForKill_keepWaiting_
+  commentId: Overload:DG.Tweening.DOTweenCYInstruction.WaitForKill.keepWaiting
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForKill.keepWaiting
+  nameWithType: DOTweenCYInstruction.WaitForKill.keepWaiting
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForPosition
+  name: DOTweenCYInstruction.WaitForPosition
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForPosition.html
+  commentId: T:DG.Tweening.DOTweenCYInstruction.WaitForPosition
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForPosition
+  nameWithType: DOTweenCYInstruction.WaitForPosition
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForPosition.#ctor(DG.Tweening.Tween,System.Single)
+  name: WaitForPosition(Tween, float)
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForPosition.html#DG_Tweening_DOTweenCYInstruction_WaitForPosition__ctor_DG_Tweening_Tween_System_Single_
+  commentId: M:DG.Tweening.DOTweenCYInstruction.WaitForPosition.#ctor(DG.Tweening.Tween,System.Single)
+  name.vb: New(Tween, Single)
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForPosition.WaitForPosition(DG.Tweening.Tween, float)
+  fullName.vb: DG.Tweening.DOTweenCYInstruction.WaitForPosition.New(DG.Tweening.Tween, Single)
+  nameWithType: DOTweenCYInstruction.WaitForPosition.WaitForPosition(Tween, float)
+  nameWithType.vb: DOTweenCYInstruction.WaitForPosition.New(Tween, Single)
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForPosition.#ctor*
+  name: WaitForPosition
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForPosition.html#DG_Tweening_DOTweenCYInstruction_WaitForPosition__ctor_
+  commentId: Overload:DG.Tweening.DOTweenCYInstruction.WaitForPosition.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForPosition.WaitForPosition
+  fullName.vb: DG.Tweening.DOTweenCYInstruction.WaitForPosition.New
+  nameWithType: DOTweenCYInstruction.WaitForPosition.WaitForPosition
+  nameWithType.vb: DOTweenCYInstruction.WaitForPosition.New
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForPosition.keepWaiting
+  name: keepWaiting
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForPosition.html#DG_Tweening_DOTweenCYInstruction_WaitForPosition_keepWaiting
+  commentId: P:DG.Tweening.DOTweenCYInstruction.WaitForPosition.keepWaiting
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForPosition.keepWaiting
+  nameWithType: DOTweenCYInstruction.WaitForPosition.keepWaiting
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForPosition.keepWaiting*
+  name: keepWaiting
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForPosition.html#DG_Tweening_DOTweenCYInstruction_WaitForPosition_keepWaiting_
+  commentId: Overload:DG.Tweening.DOTweenCYInstruction.WaitForPosition.keepWaiting
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForPosition.keepWaiting
+  nameWithType: DOTweenCYInstruction.WaitForPosition.keepWaiting
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForRewind
+  name: DOTweenCYInstruction.WaitForRewind
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForRewind.html
+  commentId: T:DG.Tweening.DOTweenCYInstruction.WaitForRewind
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForRewind
+  nameWithType: DOTweenCYInstruction.WaitForRewind
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForRewind.#ctor(DG.Tweening.Tween)
+  name: WaitForRewind(Tween)
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForRewind.html#DG_Tweening_DOTweenCYInstruction_WaitForRewind__ctor_DG_Tweening_Tween_
+  commentId: M:DG.Tweening.DOTweenCYInstruction.WaitForRewind.#ctor(DG.Tweening.Tween)
+  name.vb: New(Tween)
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForRewind.WaitForRewind(DG.Tweening.Tween)
+  fullName.vb: DG.Tweening.DOTweenCYInstruction.WaitForRewind.New(DG.Tweening.Tween)
+  nameWithType: DOTweenCYInstruction.WaitForRewind.WaitForRewind(Tween)
+  nameWithType.vb: DOTweenCYInstruction.WaitForRewind.New(Tween)
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForRewind.#ctor*
+  name: WaitForRewind
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForRewind.html#DG_Tweening_DOTweenCYInstruction_WaitForRewind__ctor_
+  commentId: Overload:DG.Tweening.DOTweenCYInstruction.WaitForRewind.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForRewind.WaitForRewind
+  fullName.vb: DG.Tweening.DOTweenCYInstruction.WaitForRewind.New
+  nameWithType: DOTweenCYInstruction.WaitForRewind.WaitForRewind
+  nameWithType.vb: DOTweenCYInstruction.WaitForRewind.New
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForRewind.keepWaiting
+  name: keepWaiting
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForRewind.html#DG_Tweening_DOTweenCYInstruction_WaitForRewind_keepWaiting
+  commentId: P:DG.Tweening.DOTweenCYInstruction.WaitForRewind.keepWaiting
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForRewind.keepWaiting
+  nameWithType: DOTweenCYInstruction.WaitForRewind.keepWaiting
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForRewind.keepWaiting*
+  name: keepWaiting
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForRewind.html#DG_Tweening_DOTweenCYInstruction_WaitForRewind_keepWaiting_
+  commentId: Overload:DG.Tweening.DOTweenCYInstruction.WaitForRewind.keepWaiting
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForRewind.keepWaiting
+  nameWithType: DOTweenCYInstruction.WaitForRewind.keepWaiting
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForStart
+  name: DOTweenCYInstruction.WaitForStart
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForStart.html
+  commentId: T:DG.Tweening.DOTweenCYInstruction.WaitForStart
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForStart
+  nameWithType: DOTweenCYInstruction.WaitForStart
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForStart.#ctor(DG.Tweening.Tween)
+  name: WaitForStart(Tween)
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForStart.html#DG_Tweening_DOTweenCYInstruction_WaitForStart__ctor_DG_Tweening_Tween_
+  commentId: M:DG.Tweening.DOTweenCYInstruction.WaitForStart.#ctor(DG.Tweening.Tween)
+  name.vb: New(Tween)
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForStart.WaitForStart(DG.Tweening.Tween)
+  fullName.vb: DG.Tweening.DOTweenCYInstruction.WaitForStart.New(DG.Tweening.Tween)
+  nameWithType: DOTweenCYInstruction.WaitForStart.WaitForStart(Tween)
+  nameWithType.vb: DOTweenCYInstruction.WaitForStart.New(Tween)
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForStart.#ctor*
+  name: WaitForStart
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForStart.html#DG_Tweening_DOTweenCYInstruction_WaitForStart__ctor_
+  commentId: Overload:DG.Tweening.DOTweenCYInstruction.WaitForStart.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForStart.WaitForStart
+  fullName.vb: DG.Tweening.DOTweenCYInstruction.WaitForStart.New
+  nameWithType: DOTweenCYInstruction.WaitForStart.WaitForStart
+  nameWithType.vb: DOTweenCYInstruction.WaitForStart.New
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForStart.keepWaiting
+  name: keepWaiting
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForStart.html#DG_Tweening_DOTweenCYInstruction_WaitForStart_keepWaiting
+  commentId: P:DG.Tweening.DOTweenCYInstruction.WaitForStart.keepWaiting
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForStart.keepWaiting
+  nameWithType: DOTweenCYInstruction.WaitForStart.keepWaiting
+- uid: DG.Tweening.DOTweenCYInstruction.WaitForStart.keepWaiting*
+  name: keepWaiting
+  href: api/DG.Tweening.DOTweenCYInstruction.WaitForStart.html#DG_Tweening_DOTweenCYInstruction_WaitForStart_keepWaiting_
+  commentId: Overload:DG.Tweening.DOTweenCYInstruction.WaitForStart.keepWaiting
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenCYInstruction.WaitForStart.keepWaiting
+  nameWithType: DOTweenCYInstruction.WaitForStart.keepWaiting
+- uid: DG.Tweening.DOTweenModuleAudio
+  name: DOTweenModuleAudio
+  href: api/DG.Tweening.DOTweenModuleAudio.html
+  commentId: T:DG.Tweening.DOTweenModuleAudio
+  fullName: DG.Tweening.DOTweenModuleAudio
+  nameWithType: DOTweenModuleAudio
+- uid: DG.Tweening.DOTweenModuleAudio.DOComplete(UnityEngine.Audio.AudioMixer,System.Boolean)
+  name: DOComplete(AudioMixer, bool)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOComplete_UnityEngine_Audio_AudioMixer_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DOComplete(UnityEngine.Audio.AudioMixer,System.Boolean)
+  name.vb: DOComplete(AudioMixer, Boolean)
+  fullName: DG.Tweening.DOTweenModuleAudio.DOComplete(UnityEngine.Audio.AudioMixer, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleAudio.DOComplete(UnityEngine.Audio.AudioMixer, Boolean)
+  nameWithType: DOTweenModuleAudio.DOComplete(AudioMixer, bool)
+  nameWithType.vb: DOTweenModuleAudio.DOComplete(AudioMixer, Boolean)
+- uid: DG.Tweening.DOTweenModuleAudio.DOComplete*
+  name: DOComplete
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOComplete_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DOComplete
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DOComplete
+  nameWithType: DOTweenModuleAudio.DOComplete
+- uid: DG.Tweening.DOTweenModuleAudio.DOFade(UnityEngine.AudioSource,System.Single,System.Single)
+  name: DOFade(AudioSource, float, float)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOFade_UnityEngine_AudioSource_System_Single_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DOFade(UnityEngine.AudioSource,System.Single,System.Single)
+  name.vb: DOFade(AudioSource, Single, Single)
+  fullName: DG.Tweening.DOTweenModuleAudio.DOFade(UnityEngine.AudioSource, float, float)
+  fullName.vb: DG.Tweening.DOTweenModuleAudio.DOFade(UnityEngine.AudioSource, Single, Single)
+  nameWithType: DOTweenModuleAudio.DOFade(AudioSource, float, float)
+  nameWithType.vb: DOTweenModuleAudio.DOFade(AudioSource, Single, Single)
+- uid: DG.Tweening.DOTweenModuleAudio.DOFade*
+  name: DOFade
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOFade_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DOFade
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DOFade
+  nameWithType: DOTweenModuleAudio.DOFade
+- uid: DG.Tweening.DOTweenModuleAudio.DOFlip(UnityEngine.Audio.AudioMixer)
+  name: DOFlip(AudioMixer)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOFlip_UnityEngine_Audio_AudioMixer_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DOFlip(UnityEngine.Audio.AudioMixer)
+  fullName: DG.Tweening.DOTweenModuleAudio.DOFlip(UnityEngine.Audio.AudioMixer)
+  nameWithType: DOTweenModuleAudio.DOFlip(AudioMixer)
+- uid: DG.Tweening.DOTweenModuleAudio.DOFlip*
+  name: DOFlip
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOFlip_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DOFlip
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DOFlip
+  nameWithType: DOTweenModuleAudio.DOFlip
+- uid: DG.Tweening.DOTweenModuleAudio.DOGoto(UnityEngine.Audio.AudioMixer,System.Single,System.Boolean)
+  name: DOGoto(AudioMixer, float, bool)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOGoto_UnityEngine_Audio_AudioMixer_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DOGoto(UnityEngine.Audio.AudioMixer,System.Single,System.Boolean)
+  name.vb: DOGoto(AudioMixer, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleAudio.DOGoto(UnityEngine.Audio.AudioMixer, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleAudio.DOGoto(UnityEngine.Audio.AudioMixer, Single, Boolean)
+  nameWithType: DOTweenModuleAudio.DOGoto(AudioMixer, float, bool)
+  nameWithType.vb: DOTweenModuleAudio.DOGoto(AudioMixer, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleAudio.DOGoto*
+  name: DOGoto
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOGoto_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DOGoto
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DOGoto
+  nameWithType: DOTweenModuleAudio.DOGoto
+- uid: DG.Tweening.DOTweenModuleAudio.DOKill(UnityEngine.Audio.AudioMixer,System.Boolean)
+  name: DOKill(AudioMixer, bool)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOKill_UnityEngine_Audio_AudioMixer_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DOKill(UnityEngine.Audio.AudioMixer,System.Boolean)
+  name.vb: DOKill(AudioMixer, Boolean)
+  fullName: DG.Tweening.DOTweenModuleAudio.DOKill(UnityEngine.Audio.AudioMixer, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleAudio.DOKill(UnityEngine.Audio.AudioMixer, Boolean)
+  nameWithType: DOTweenModuleAudio.DOKill(AudioMixer, bool)
+  nameWithType.vb: DOTweenModuleAudio.DOKill(AudioMixer, Boolean)
+- uid: DG.Tweening.DOTweenModuleAudio.DOKill*
+  name: DOKill
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOKill_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DOKill
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DOKill
+  nameWithType: DOTweenModuleAudio.DOKill
+- uid: DG.Tweening.DOTweenModuleAudio.DOPause(UnityEngine.Audio.AudioMixer)
+  name: DOPause(AudioMixer)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOPause_UnityEngine_Audio_AudioMixer_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DOPause(UnityEngine.Audio.AudioMixer)
+  fullName: DG.Tweening.DOTweenModuleAudio.DOPause(UnityEngine.Audio.AudioMixer)
+  nameWithType: DOTweenModuleAudio.DOPause(AudioMixer)
+- uid: DG.Tweening.DOTweenModuleAudio.DOPause*
+  name: DOPause
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOPause_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DOPause
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DOPause
+  nameWithType: DOTweenModuleAudio.DOPause
+- uid: DG.Tweening.DOTweenModuleAudio.DOPitch(UnityEngine.AudioSource,System.Single,System.Single)
+  name: DOPitch(AudioSource, float, float)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOPitch_UnityEngine_AudioSource_System_Single_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DOPitch(UnityEngine.AudioSource,System.Single,System.Single)
+  name.vb: DOPitch(AudioSource, Single, Single)
+  fullName: DG.Tweening.DOTweenModuleAudio.DOPitch(UnityEngine.AudioSource, float, float)
+  fullName.vb: DG.Tweening.DOTweenModuleAudio.DOPitch(UnityEngine.AudioSource, Single, Single)
+  nameWithType: DOTweenModuleAudio.DOPitch(AudioSource, float, float)
+  nameWithType.vb: DOTweenModuleAudio.DOPitch(AudioSource, Single, Single)
+- uid: DG.Tweening.DOTweenModuleAudio.DOPitch*
+  name: DOPitch
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOPitch_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DOPitch
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DOPitch
+  nameWithType: DOTweenModuleAudio.DOPitch
+- uid: DG.Tweening.DOTweenModuleAudio.DOPlay(UnityEngine.Audio.AudioMixer)
+  name: DOPlay(AudioMixer)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOPlay_UnityEngine_Audio_AudioMixer_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DOPlay(UnityEngine.Audio.AudioMixer)
+  fullName: DG.Tweening.DOTweenModuleAudio.DOPlay(UnityEngine.Audio.AudioMixer)
+  nameWithType: DOTweenModuleAudio.DOPlay(AudioMixer)
+- uid: DG.Tweening.DOTweenModuleAudio.DOPlay*
+  name: DOPlay
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOPlay_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DOPlay
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DOPlay
+  nameWithType: DOTweenModuleAudio.DOPlay
+- uid: DG.Tweening.DOTweenModuleAudio.DOPlayBackwards(UnityEngine.Audio.AudioMixer)
+  name: DOPlayBackwards(AudioMixer)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOPlayBackwards_UnityEngine_Audio_AudioMixer_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DOPlayBackwards(UnityEngine.Audio.AudioMixer)
+  fullName: DG.Tweening.DOTweenModuleAudio.DOPlayBackwards(UnityEngine.Audio.AudioMixer)
+  nameWithType: DOTweenModuleAudio.DOPlayBackwards(AudioMixer)
+- uid: DG.Tweening.DOTweenModuleAudio.DOPlayBackwards*
+  name: DOPlayBackwards
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOPlayBackwards_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DOPlayBackwards
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DOPlayBackwards
+  nameWithType: DOTweenModuleAudio.DOPlayBackwards
+- uid: DG.Tweening.DOTweenModuleAudio.DOPlayForward(UnityEngine.Audio.AudioMixer)
+  name: DOPlayForward(AudioMixer)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOPlayForward_UnityEngine_Audio_AudioMixer_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DOPlayForward(UnityEngine.Audio.AudioMixer)
+  fullName: DG.Tweening.DOTweenModuleAudio.DOPlayForward(UnityEngine.Audio.AudioMixer)
+  nameWithType: DOTweenModuleAudio.DOPlayForward(AudioMixer)
+- uid: DG.Tweening.DOTweenModuleAudio.DOPlayForward*
+  name: DOPlayForward
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOPlayForward_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DOPlayForward
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DOPlayForward
+  nameWithType: DOTweenModuleAudio.DOPlayForward
+- uid: DG.Tweening.DOTweenModuleAudio.DORestart(UnityEngine.Audio.AudioMixer)
+  name: DORestart(AudioMixer)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DORestart_UnityEngine_Audio_AudioMixer_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DORestart(UnityEngine.Audio.AudioMixer)
+  fullName: DG.Tweening.DOTweenModuleAudio.DORestart(UnityEngine.Audio.AudioMixer)
+  nameWithType: DOTweenModuleAudio.DORestart(AudioMixer)
+- uid: DG.Tweening.DOTweenModuleAudio.DORestart*
+  name: DORestart
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DORestart_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DORestart
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DORestart
+  nameWithType: DOTweenModuleAudio.DORestart
+- uid: DG.Tweening.DOTweenModuleAudio.DORewind(UnityEngine.Audio.AudioMixer)
+  name: DORewind(AudioMixer)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DORewind_UnityEngine_Audio_AudioMixer_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DORewind(UnityEngine.Audio.AudioMixer)
+  fullName: DG.Tweening.DOTweenModuleAudio.DORewind(UnityEngine.Audio.AudioMixer)
+  nameWithType: DOTweenModuleAudio.DORewind(AudioMixer)
+- uid: DG.Tweening.DOTweenModuleAudio.DORewind*
+  name: DORewind
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DORewind_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DORewind
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DORewind
+  nameWithType: DOTweenModuleAudio.DORewind
+- uid: DG.Tweening.DOTweenModuleAudio.DOSetFloat(UnityEngine.Audio.AudioMixer,System.String,System.Single,System.Single)
+  name: DOSetFloat(AudioMixer, string, float, float)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOSetFloat_UnityEngine_Audio_AudioMixer_System_String_System_Single_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DOSetFloat(UnityEngine.Audio.AudioMixer,System.String,System.Single,System.Single)
+  name.vb: DOSetFloat(AudioMixer, String, Single, Single)
+  fullName: DG.Tweening.DOTweenModuleAudio.DOSetFloat(UnityEngine.Audio.AudioMixer, string, float, float)
+  fullName.vb: DG.Tweening.DOTweenModuleAudio.DOSetFloat(UnityEngine.Audio.AudioMixer, String, Single, Single)
+  nameWithType: DOTweenModuleAudio.DOSetFloat(AudioMixer, string, float, float)
+  nameWithType.vb: DOTweenModuleAudio.DOSetFloat(AudioMixer, String, Single, Single)
+- uid: DG.Tweening.DOTweenModuleAudio.DOSetFloat*
+  name: DOSetFloat
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOSetFloat_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DOSetFloat
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DOSetFloat
+  nameWithType: DOTweenModuleAudio.DOSetFloat
+- uid: DG.Tweening.DOTweenModuleAudio.DOSmoothRewind(UnityEngine.Audio.AudioMixer)
+  name: DOSmoothRewind(AudioMixer)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOSmoothRewind_UnityEngine_Audio_AudioMixer_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DOSmoothRewind(UnityEngine.Audio.AudioMixer)
+  fullName: DG.Tweening.DOTweenModuleAudio.DOSmoothRewind(UnityEngine.Audio.AudioMixer)
+  nameWithType: DOTweenModuleAudio.DOSmoothRewind(AudioMixer)
+- uid: DG.Tweening.DOTweenModuleAudio.DOSmoothRewind*
+  name: DOSmoothRewind
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOSmoothRewind_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DOSmoothRewind
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DOSmoothRewind
+  nameWithType: DOTweenModuleAudio.DOSmoothRewind
+- uid: DG.Tweening.DOTweenModuleAudio.DOTogglePause(UnityEngine.Audio.AudioMixer)
+  name: DOTogglePause(AudioMixer)
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOTogglePause_UnityEngine_Audio_AudioMixer_
+  commentId: M:DG.Tweening.DOTweenModuleAudio.DOTogglePause(UnityEngine.Audio.AudioMixer)
+  fullName: DG.Tweening.DOTweenModuleAudio.DOTogglePause(UnityEngine.Audio.AudioMixer)
+  nameWithType: DOTweenModuleAudio.DOTogglePause(AudioMixer)
+- uid: DG.Tweening.DOTweenModuleAudio.DOTogglePause*
+  name: DOTogglePause
+  href: api/DG.Tweening.DOTweenModuleAudio.html#DG_Tweening_DOTweenModuleAudio_DOTogglePause_
+  commentId: Overload:DG.Tweening.DOTweenModuleAudio.DOTogglePause
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleAudio.DOTogglePause
+  nameWithType: DOTweenModuleAudio.DOTogglePause
+- uid: DG.Tweening.DOTweenModulePhysics2D
+  name: DOTweenModulePhysics2D
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html
+  commentId: T:DG.Tweening.DOTweenModulePhysics2D
+  fullName: DG.Tweening.DOTweenModulePhysics2D
+  nameWithType: DOTweenModulePhysics2D
+- uid: DG.Tweening.DOTweenModulePhysics2D.DOJump(UnityEngine.Rigidbody2D,UnityEngine.Vector2,System.Single,System.Int32,System.Single,System.Boolean)
+  name: DOJump(Rigidbody2D, Vector2, float, int, float, bool)
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html#DG_Tweening_DOTweenModulePhysics2D_DOJump_UnityEngine_Rigidbody2D_UnityEngine_Vector2_System_Single_System_Int32_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModulePhysics2D.DOJump(UnityEngine.Rigidbody2D,UnityEngine.Vector2,System.Single,System.Int32,System.Single,System.Boolean)
+  name.vb: DOJump(Rigidbody2D, Vector2, Single, Integer, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModulePhysics2D.DOJump(UnityEngine.Rigidbody2D, UnityEngine.Vector2, float, int, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModulePhysics2D.DOJump(UnityEngine.Rigidbody2D, UnityEngine.Vector2, Single, Integer, Single, Boolean)
+  nameWithType: DOTweenModulePhysics2D.DOJump(Rigidbody2D, Vector2, float, int, float, bool)
+  nameWithType.vb: DOTweenModulePhysics2D.DOJump(Rigidbody2D, Vector2, Single, Integer, Single, Boolean)
+- uid: DG.Tweening.DOTweenModulePhysics2D.DOJump*
+  name: DOJump
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html#DG_Tweening_DOTweenModulePhysics2D_DOJump_
+  commentId: Overload:DG.Tweening.DOTweenModulePhysics2D.DOJump
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModulePhysics2D.DOJump
+  nameWithType: DOTweenModulePhysics2D.DOJump
+- uid: DG.Tweening.DOTweenModulePhysics2D.DOLocalPath(UnityEngine.Rigidbody2D,UnityEngine.Vector2[],System.Single,DG.Tweening.PathType,DG.Tweening.PathMode,System.Int32,System.Nullable{UnityEngine.Color})
+  name: DOLocalPath(Rigidbody2D, Vector2[], float, PathType, PathMode, int, Color?)
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html#DG_Tweening_DOTweenModulePhysics2D_DOLocalPath_UnityEngine_Rigidbody2D_UnityEngine_Vector2___System_Single_DG_Tweening_PathType_DG_Tweening_PathMode_System_Int32_System_Nullable_UnityEngine_Color__
+  commentId: M:DG.Tweening.DOTweenModulePhysics2D.DOLocalPath(UnityEngine.Rigidbody2D,UnityEngine.Vector2[],System.Single,DG.Tweening.PathType,DG.Tweening.PathMode,System.Int32,System.Nullable{UnityEngine.Color})
+  name.vb: DOLocalPath(Rigidbody2D, Vector2(), Single, PathType, PathMode, Integer, Color?)
+  fullName: DG.Tweening.DOTweenModulePhysics2D.DOLocalPath(UnityEngine.Rigidbody2D, UnityEngine.Vector2[], float, DG.Tweening.PathType, DG.Tweening.PathMode, int, UnityEngine.Color?)
+  fullName.vb: DG.Tweening.DOTweenModulePhysics2D.DOLocalPath(UnityEngine.Rigidbody2D, UnityEngine.Vector2(), Single, DG.Tweening.PathType, DG.Tweening.PathMode, Integer, UnityEngine.Color?)
+  nameWithType: DOTweenModulePhysics2D.DOLocalPath(Rigidbody2D, Vector2[], float, PathType, PathMode, int, Color?)
+  nameWithType.vb: DOTweenModulePhysics2D.DOLocalPath(Rigidbody2D, Vector2(), Single, PathType, PathMode, Integer, Color?)
+- uid: DG.Tweening.DOTweenModulePhysics2D.DOLocalPath*
+  name: DOLocalPath
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html#DG_Tweening_DOTweenModulePhysics2D_DOLocalPath_
+  commentId: Overload:DG.Tweening.DOTweenModulePhysics2D.DOLocalPath
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModulePhysics2D.DOLocalPath
+  nameWithType: DOTweenModulePhysics2D.DOLocalPath
+- uid: DG.Tweening.DOTweenModulePhysics2D.DOMove(UnityEngine.Rigidbody2D,UnityEngine.Vector2,System.Single,System.Boolean)
+  name: DOMove(Rigidbody2D, Vector2, float, bool)
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html#DG_Tweening_DOTweenModulePhysics2D_DOMove_UnityEngine_Rigidbody2D_UnityEngine_Vector2_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModulePhysics2D.DOMove(UnityEngine.Rigidbody2D,UnityEngine.Vector2,System.Single,System.Boolean)
+  name.vb: DOMove(Rigidbody2D, Vector2, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModulePhysics2D.DOMove(UnityEngine.Rigidbody2D, UnityEngine.Vector2, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModulePhysics2D.DOMove(UnityEngine.Rigidbody2D, UnityEngine.Vector2, Single, Boolean)
+  nameWithType: DOTweenModulePhysics2D.DOMove(Rigidbody2D, Vector2, float, bool)
+  nameWithType.vb: DOTweenModulePhysics2D.DOMove(Rigidbody2D, Vector2, Single, Boolean)
+- uid: DG.Tweening.DOTweenModulePhysics2D.DOMove*
+  name: DOMove
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html#DG_Tweening_DOTweenModulePhysics2D_DOMove_
+  commentId: Overload:DG.Tweening.DOTweenModulePhysics2D.DOMove
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModulePhysics2D.DOMove
+  nameWithType: DOTweenModulePhysics2D.DOMove
+- uid: DG.Tweening.DOTweenModulePhysics2D.DOMoveX(UnityEngine.Rigidbody2D,System.Single,System.Single,System.Boolean)
+  name: DOMoveX(Rigidbody2D, float, float, bool)
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html#DG_Tweening_DOTweenModulePhysics2D_DOMoveX_UnityEngine_Rigidbody2D_System_Single_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModulePhysics2D.DOMoveX(UnityEngine.Rigidbody2D,System.Single,System.Single,System.Boolean)
+  name.vb: DOMoveX(Rigidbody2D, Single, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModulePhysics2D.DOMoveX(UnityEngine.Rigidbody2D, float, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModulePhysics2D.DOMoveX(UnityEngine.Rigidbody2D, Single, Single, Boolean)
+  nameWithType: DOTweenModulePhysics2D.DOMoveX(Rigidbody2D, float, float, bool)
+  nameWithType.vb: DOTweenModulePhysics2D.DOMoveX(Rigidbody2D, Single, Single, Boolean)
+- uid: DG.Tweening.DOTweenModulePhysics2D.DOMoveX*
+  name: DOMoveX
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html#DG_Tweening_DOTweenModulePhysics2D_DOMoveX_
+  commentId: Overload:DG.Tweening.DOTweenModulePhysics2D.DOMoveX
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModulePhysics2D.DOMoveX
+  nameWithType: DOTweenModulePhysics2D.DOMoveX
+- uid: DG.Tweening.DOTweenModulePhysics2D.DOMoveY(UnityEngine.Rigidbody2D,System.Single,System.Single,System.Boolean)
+  name: DOMoveY(Rigidbody2D, float, float, bool)
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html#DG_Tweening_DOTweenModulePhysics2D_DOMoveY_UnityEngine_Rigidbody2D_System_Single_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModulePhysics2D.DOMoveY(UnityEngine.Rigidbody2D,System.Single,System.Single,System.Boolean)
+  name.vb: DOMoveY(Rigidbody2D, Single, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModulePhysics2D.DOMoveY(UnityEngine.Rigidbody2D, float, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModulePhysics2D.DOMoveY(UnityEngine.Rigidbody2D, Single, Single, Boolean)
+  nameWithType: DOTweenModulePhysics2D.DOMoveY(Rigidbody2D, float, float, bool)
+  nameWithType.vb: DOTweenModulePhysics2D.DOMoveY(Rigidbody2D, Single, Single, Boolean)
+- uid: DG.Tweening.DOTweenModulePhysics2D.DOMoveY*
+  name: DOMoveY
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html#DG_Tweening_DOTweenModulePhysics2D_DOMoveY_
+  commentId: Overload:DG.Tweening.DOTweenModulePhysics2D.DOMoveY
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModulePhysics2D.DOMoveY
+  nameWithType: DOTweenModulePhysics2D.DOMoveY
+- uid: DG.Tweening.DOTweenModulePhysics2D.DOPath(UnityEngine.Rigidbody2D,UnityEngine.Vector2[],System.Single,DG.Tweening.PathType,DG.Tweening.PathMode,System.Int32,System.Nullable{UnityEngine.Color})
+  name: DOPath(Rigidbody2D, Vector2[], float, PathType, PathMode, int, Color?)
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html#DG_Tweening_DOTweenModulePhysics2D_DOPath_UnityEngine_Rigidbody2D_UnityEngine_Vector2___System_Single_DG_Tweening_PathType_DG_Tweening_PathMode_System_Int32_System_Nullable_UnityEngine_Color__
+  commentId: M:DG.Tweening.DOTweenModulePhysics2D.DOPath(UnityEngine.Rigidbody2D,UnityEngine.Vector2[],System.Single,DG.Tweening.PathType,DG.Tweening.PathMode,System.Int32,System.Nullable{UnityEngine.Color})
+  name.vb: DOPath(Rigidbody2D, Vector2(), Single, PathType, PathMode, Integer, Color?)
+  fullName: DG.Tweening.DOTweenModulePhysics2D.DOPath(UnityEngine.Rigidbody2D, UnityEngine.Vector2[], float, DG.Tweening.PathType, DG.Tweening.PathMode, int, UnityEngine.Color?)
+  fullName.vb: DG.Tweening.DOTweenModulePhysics2D.DOPath(UnityEngine.Rigidbody2D, UnityEngine.Vector2(), Single, DG.Tweening.PathType, DG.Tweening.PathMode, Integer, UnityEngine.Color?)
+  nameWithType: DOTweenModulePhysics2D.DOPath(Rigidbody2D, Vector2[], float, PathType, PathMode, int, Color?)
+  nameWithType.vb: DOTweenModulePhysics2D.DOPath(Rigidbody2D, Vector2(), Single, PathType, PathMode, Integer, Color?)
+- uid: DG.Tweening.DOTweenModulePhysics2D.DOPath*
+  name: DOPath
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html#DG_Tweening_DOTweenModulePhysics2D_DOPath_
+  commentId: Overload:DG.Tweening.DOTweenModulePhysics2D.DOPath
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModulePhysics2D.DOPath
+  nameWithType: DOTweenModulePhysics2D.DOPath
+- uid: DG.Tweening.DOTweenModulePhysics2D.DORotate(UnityEngine.Rigidbody2D,System.Single,System.Single)
+  name: DORotate(Rigidbody2D, float, float)
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html#DG_Tweening_DOTweenModulePhysics2D_DORotate_UnityEngine_Rigidbody2D_System_Single_System_Single_
+  commentId: M:DG.Tweening.DOTweenModulePhysics2D.DORotate(UnityEngine.Rigidbody2D,System.Single,System.Single)
+  name.vb: DORotate(Rigidbody2D, Single, Single)
+  fullName: DG.Tweening.DOTweenModulePhysics2D.DORotate(UnityEngine.Rigidbody2D, float, float)
+  fullName.vb: DG.Tweening.DOTweenModulePhysics2D.DORotate(UnityEngine.Rigidbody2D, Single, Single)
+  nameWithType: DOTweenModulePhysics2D.DORotate(Rigidbody2D, float, float)
+  nameWithType.vb: DOTweenModulePhysics2D.DORotate(Rigidbody2D, Single, Single)
+- uid: DG.Tweening.DOTweenModulePhysics2D.DORotate*
+  name: DORotate
+  href: api/DG.Tweening.DOTweenModulePhysics2D.html#DG_Tweening_DOTweenModulePhysics2D_DORotate_
+  commentId: Overload:DG.Tweening.DOTweenModulePhysics2D.DORotate
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModulePhysics2D.DORotate
+  nameWithType: DOTweenModulePhysics2D.DORotate
+- uid: DG.Tweening.DOTweenModuleSprite
+  name: DOTweenModuleSprite
+  href: api/DG.Tweening.DOTweenModuleSprite.html
+  commentId: T:DG.Tweening.DOTweenModuleSprite
+  fullName: DG.Tweening.DOTweenModuleSprite
+  nameWithType: DOTweenModuleSprite
+- uid: DG.Tweening.DOTweenModuleSprite.DOBlendableColor(UnityEngine.SpriteRenderer,UnityEngine.Color,System.Single)
+  name: DOBlendableColor(SpriteRenderer, Color, float)
+  href: api/DG.Tweening.DOTweenModuleSprite.html#DG_Tweening_DOTweenModuleSprite_DOBlendableColor_UnityEngine_SpriteRenderer_UnityEngine_Color_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleSprite.DOBlendableColor(UnityEngine.SpriteRenderer,UnityEngine.Color,System.Single)
+  name.vb: DOBlendableColor(SpriteRenderer, Color, Single)
+  fullName: DG.Tweening.DOTweenModuleSprite.DOBlendableColor(UnityEngine.SpriteRenderer, UnityEngine.Color, float)
+  fullName.vb: DG.Tweening.DOTweenModuleSprite.DOBlendableColor(UnityEngine.SpriteRenderer, UnityEngine.Color, Single)
+  nameWithType: DOTweenModuleSprite.DOBlendableColor(SpriteRenderer, Color, float)
+  nameWithType.vb: DOTweenModuleSprite.DOBlendableColor(SpriteRenderer, Color, Single)
+- uid: DG.Tweening.DOTweenModuleSprite.DOBlendableColor*
+  name: DOBlendableColor
+  href: api/DG.Tweening.DOTweenModuleSprite.html#DG_Tweening_DOTweenModuleSprite_DOBlendableColor_
+  commentId: Overload:DG.Tweening.DOTweenModuleSprite.DOBlendableColor
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleSprite.DOBlendableColor
+  nameWithType: DOTweenModuleSprite.DOBlendableColor
+- uid: DG.Tweening.DOTweenModuleSprite.DOColor(UnityEngine.SpriteRenderer,UnityEngine.Color,System.Single)
+  name: DOColor(SpriteRenderer, Color, float)
+  href: api/DG.Tweening.DOTweenModuleSprite.html#DG_Tweening_DOTweenModuleSprite_DOColor_UnityEngine_SpriteRenderer_UnityEngine_Color_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleSprite.DOColor(UnityEngine.SpriteRenderer,UnityEngine.Color,System.Single)
+  name.vb: DOColor(SpriteRenderer, Color, Single)
+  fullName: DG.Tweening.DOTweenModuleSprite.DOColor(UnityEngine.SpriteRenderer, UnityEngine.Color, float)
+  fullName.vb: DG.Tweening.DOTweenModuleSprite.DOColor(UnityEngine.SpriteRenderer, UnityEngine.Color, Single)
+  nameWithType: DOTweenModuleSprite.DOColor(SpriteRenderer, Color, float)
+  nameWithType.vb: DOTweenModuleSprite.DOColor(SpriteRenderer, Color, Single)
+- uid: DG.Tweening.DOTweenModuleSprite.DOColor*
+  name: DOColor
+  href: api/DG.Tweening.DOTweenModuleSprite.html#DG_Tweening_DOTweenModuleSprite_DOColor_
+  commentId: Overload:DG.Tweening.DOTweenModuleSprite.DOColor
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleSprite.DOColor
+  nameWithType: DOTweenModuleSprite.DOColor
+- uid: DG.Tweening.DOTweenModuleSprite.DOFade(UnityEngine.SpriteRenderer,System.Single,System.Single)
+  name: DOFade(SpriteRenderer, float, float)
+  href: api/DG.Tweening.DOTweenModuleSprite.html#DG_Tweening_DOTweenModuleSprite_DOFade_UnityEngine_SpriteRenderer_System_Single_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleSprite.DOFade(UnityEngine.SpriteRenderer,System.Single,System.Single)
+  name.vb: DOFade(SpriteRenderer, Single, Single)
+  fullName: DG.Tweening.DOTweenModuleSprite.DOFade(UnityEngine.SpriteRenderer, float, float)
+  fullName.vb: DG.Tweening.DOTweenModuleSprite.DOFade(UnityEngine.SpriteRenderer, Single, Single)
+  nameWithType: DOTweenModuleSprite.DOFade(SpriteRenderer, float, float)
+  nameWithType.vb: DOTweenModuleSprite.DOFade(SpriteRenderer, Single, Single)
+- uid: DG.Tweening.DOTweenModuleSprite.DOFade*
+  name: DOFade
+  href: api/DG.Tweening.DOTweenModuleSprite.html#DG_Tweening_DOTweenModuleSprite_DOFade_
+  commentId: Overload:DG.Tweening.DOTweenModuleSprite.DOFade
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleSprite.DOFade
+  nameWithType: DOTweenModuleSprite.DOFade
+- uid: DG.Tweening.DOTweenModuleSprite.DOGradientColor(UnityEngine.SpriteRenderer,UnityEngine.Gradient,System.Single)
+  name: DOGradientColor(SpriteRenderer, Gradient, float)
+  href: api/DG.Tweening.DOTweenModuleSprite.html#DG_Tweening_DOTweenModuleSprite_DOGradientColor_UnityEngine_SpriteRenderer_UnityEngine_Gradient_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleSprite.DOGradientColor(UnityEngine.SpriteRenderer,UnityEngine.Gradient,System.Single)
+  name.vb: DOGradientColor(SpriteRenderer, Gradient, Single)
+  fullName: DG.Tweening.DOTweenModuleSprite.DOGradientColor(UnityEngine.SpriteRenderer, UnityEngine.Gradient, float)
+  fullName.vb: DG.Tweening.DOTweenModuleSprite.DOGradientColor(UnityEngine.SpriteRenderer, UnityEngine.Gradient, Single)
+  nameWithType: DOTweenModuleSprite.DOGradientColor(SpriteRenderer, Gradient, float)
+  nameWithType.vb: DOTweenModuleSprite.DOGradientColor(SpriteRenderer, Gradient, Single)
+- uid: DG.Tweening.DOTweenModuleSprite.DOGradientColor*
+  name: DOGradientColor
+  href: api/DG.Tweening.DOTweenModuleSprite.html#DG_Tweening_DOTweenModuleSprite_DOGradientColor_
+  commentId: Overload:DG.Tweening.DOTweenModuleSprite.DOGradientColor
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleSprite.DOGradientColor
+  nameWithType: DOTweenModuleSprite.DOGradientColor
+- uid: DG.Tweening.DOTweenModuleUI
+  name: DOTweenModuleUI
+  href: api/DG.Tweening.DOTweenModuleUI.html
+  commentId: T:DG.Tweening.DOTweenModuleUI
+  fullName: DG.Tweening.DOTweenModuleUI
+  nameWithType: DOTweenModuleUI
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorMax(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single,System.Boolean)
+  name: DOAnchorMax(RectTransform, Vector2, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorMax_UnityEngine_RectTransform_UnityEngine_Vector2_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOAnchorMax(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single,System.Boolean)
+  name.vb: DOAnchorMax(RectTransform, Vector2, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorMax(UnityEngine.RectTransform, UnityEngine.Vector2, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOAnchorMax(UnityEngine.RectTransform, UnityEngine.Vector2, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOAnchorMax(RectTransform, Vector2, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOAnchorMax(RectTransform, Vector2, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorMax*
+  name: DOAnchorMax
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorMax_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOAnchorMax
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorMax
+  nameWithType: DOTweenModuleUI.DOAnchorMax
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorMin(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single,System.Boolean)
+  name: DOAnchorMin(RectTransform, Vector2, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorMin_UnityEngine_RectTransform_UnityEngine_Vector2_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOAnchorMin(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single,System.Boolean)
+  name.vb: DOAnchorMin(RectTransform, Vector2, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorMin(UnityEngine.RectTransform, UnityEngine.Vector2, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOAnchorMin(UnityEngine.RectTransform, UnityEngine.Vector2, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOAnchorMin(RectTransform, Vector2, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOAnchorMin(RectTransform, Vector2, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorMin*
+  name: DOAnchorMin
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorMin_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOAnchorMin
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorMin
+  nameWithType: DOTweenModuleUI.DOAnchorMin
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorPos(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single,System.Boolean)
+  name: DOAnchorPos(RectTransform, Vector2, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorPos_UnityEngine_RectTransform_UnityEngine_Vector2_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOAnchorPos(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single,System.Boolean)
+  name.vb: DOAnchorPos(RectTransform, Vector2, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorPos(UnityEngine.RectTransform, UnityEngine.Vector2, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOAnchorPos(UnityEngine.RectTransform, UnityEngine.Vector2, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOAnchorPos(RectTransform, Vector2, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOAnchorPos(RectTransform, Vector2, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorPos*
+  name: DOAnchorPos
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorPos_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOAnchorPos
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorPos
+  nameWithType: DOTweenModuleUI.DOAnchorPos
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorPos3D(UnityEngine.RectTransform,UnityEngine.Vector3,System.Single,System.Boolean)
+  name: DOAnchorPos3D(RectTransform, Vector3, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorPos3D_UnityEngine_RectTransform_UnityEngine_Vector3_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOAnchorPos3D(UnityEngine.RectTransform,UnityEngine.Vector3,System.Single,System.Boolean)
+  name.vb: DOAnchorPos3D(RectTransform, Vector3, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorPos3D(UnityEngine.RectTransform, UnityEngine.Vector3, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOAnchorPos3D(UnityEngine.RectTransform, UnityEngine.Vector3, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOAnchorPos3D(RectTransform, Vector3, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOAnchorPos3D(RectTransform, Vector3, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorPos3D*
+  name: DOAnchorPos3D
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorPos3D_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOAnchorPos3D
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorPos3D
+  nameWithType: DOTweenModuleUI.DOAnchorPos3D
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DX(UnityEngine.RectTransform,System.Single,System.Single,System.Boolean)
+  name: DOAnchorPos3DX(RectTransform, float, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorPos3DX_UnityEngine_RectTransform_System_Single_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOAnchorPos3DX(UnityEngine.RectTransform,System.Single,System.Single,System.Boolean)
+  name.vb: DOAnchorPos3DX(RectTransform, Single, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DX(UnityEngine.RectTransform, float, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DX(UnityEngine.RectTransform, Single, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOAnchorPos3DX(RectTransform, float, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOAnchorPos3DX(RectTransform, Single, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DX*
+  name: DOAnchorPos3DX
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorPos3DX_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOAnchorPos3DX
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DX
+  nameWithType: DOTweenModuleUI.DOAnchorPos3DX
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DY(UnityEngine.RectTransform,System.Single,System.Single,System.Boolean)
+  name: DOAnchorPos3DY(RectTransform, float, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorPos3DY_UnityEngine_RectTransform_System_Single_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOAnchorPos3DY(UnityEngine.RectTransform,System.Single,System.Single,System.Boolean)
+  name.vb: DOAnchorPos3DY(RectTransform, Single, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DY(UnityEngine.RectTransform, float, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DY(UnityEngine.RectTransform, Single, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOAnchorPos3DY(RectTransform, float, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOAnchorPos3DY(RectTransform, Single, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DY*
+  name: DOAnchorPos3DY
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorPos3DY_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOAnchorPos3DY
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DY
+  nameWithType: DOTweenModuleUI.DOAnchorPos3DY
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DZ(UnityEngine.RectTransform,System.Single,System.Single,System.Boolean)
+  name: DOAnchorPos3DZ(RectTransform, float, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorPos3DZ_UnityEngine_RectTransform_System_Single_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOAnchorPos3DZ(UnityEngine.RectTransform,System.Single,System.Single,System.Boolean)
+  name.vb: DOAnchorPos3DZ(RectTransform, Single, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DZ(UnityEngine.RectTransform, float, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DZ(UnityEngine.RectTransform, Single, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOAnchorPos3DZ(RectTransform, float, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOAnchorPos3DZ(RectTransform, Single, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DZ*
+  name: DOAnchorPos3DZ
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorPos3DZ_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOAnchorPos3DZ
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorPos3DZ
+  nameWithType: DOTweenModuleUI.DOAnchorPos3DZ
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorPosX(UnityEngine.RectTransform,System.Single,System.Single,System.Boolean)
+  name: DOAnchorPosX(RectTransform, float, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorPosX_UnityEngine_RectTransform_System_Single_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOAnchorPosX(UnityEngine.RectTransform,System.Single,System.Single,System.Boolean)
+  name.vb: DOAnchorPosX(RectTransform, Single, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorPosX(UnityEngine.RectTransform, float, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOAnchorPosX(UnityEngine.RectTransform, Single, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOAnchorPosX(RectTransform, float, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOAnchorPosX(RectTransform, Single, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorPosX*
+  name: DOAnchorPosX
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorPosX_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOAnchorPosX
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorPosX
+  nameWithType: DOTweenModuleUI.DOAnchorPosX
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorPosY(UnityEngine.RectTransform,System.Single,System.Single,System.Boolean)
+  name: DOAnchorPosY(RectTransform, float, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorPosY_UnityEngine_RectTransform_System_Single_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOAnchorPosY(UnityEngine.RectTransform,System.Single,System.Single,System.Boolean)
+  name.vb: DOAnchorPosY(RectTransform, Single, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorPosY(UnityEngine.RectTransform, float, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOAnchorPosY(UnityEngine.RectTransform, Single, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOAnchorPosY(RectTransform, float, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOAnchorPosY(RectTransform, Single, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOAnchorPosY*
+  name: DOAnchorPosY
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOAnchorPosY_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOAnchorPosY
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOAnchorPosY
+  nameWithType: DOTweenModuleUI.DOAnchorPosY
+- uid: DG.Tweening.DOTweenModuleUI.DOBlendableColor(UnityEngine.UI.Graphic,UnityEngine.Color,System.Single)
+  name: DOBlendableColor(Graphic, Color, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOBlendableColor_UnityEngine_UI_Graphic_UnityEngine_Color_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOBlendableColor(UnityEngine.UI.Graphic,UnityEngine.Color,System.Single)
+  name.vb: DOBlendableColor(Graphic, Color, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOBlendableColor(UnityEngine.UI.Graphic, UnityEngine.Color, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOBlendableColor(UnityEngine.UI.Graphic, UnityEngine.Color, Single)
+  nameWithType: DOTweenModuleUI.DOBlendableColor(Graphic, Color, float)
+  nameWithType.vb: DOTweenModuleUI.DOBlendableColor(Graphic, Color, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOBlendableColor(UnityEngine.UI.Image,UnityEngine.Color,System.Single)
+  name: DOBlendableColor(Image, Color, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOBlendableColor_UnityEngine_UI_Image_UnityEngine_Color_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOBlendableColor(UnityEngine.UI.Image,UnityEngine.Color,System.Single)
+  name.vb: DOBlendableColor(Image, Color, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOBlendableColor(UnityEngine.UI.Image, UnityEngine.Color, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOBlendableColor(UnityEngine.UI.Image, UnityEngine.Color, Single)
+  nameWithType: DOTweenModuleUI.DOBlendableColor(Image, Color, float)
+  nameWithType.vb: DOTweenModuleUI.DOBlendableColor(Image, Color, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOBlendableColor(UnityEngine.UI.Text,UnityEngine.Color,System.Single)
+  name: DOBlendableColor(Text, Color, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOBlendableColor_UnityEngine_UI_Text_UnityEngine_Color_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOBlendableColor(UnityEngine.UI.Text,UnityEngine.Color,System.Single)
+  name.vb: DOBlendableColor(Text, Color, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOBlendableColor(UnityEngine.UI.Text, UnityEngine.Color, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOBlendableColor(UnityEngine.UI.Text, UnityEngine.Color, Single)
+  nameWithType: DOTweenModuleUI.DOBlendableColor(Text, Color, float)
+  nameWithType.vb: DOTweenModuleUI.DOBlendableColor(Text, Color, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOBlendableColor*
+  name: DOBlendableColor
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOBlendableColor_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOBlendableColor
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOBlendableColor
+  nameWithType: DOTweenModuleUI.DOBlendableColor
+- uid: DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Graphic,UnityEngine.Color,System.Single)
+  name: DOColor(Graphic, Color, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOColor_UnityEngine_UI_Graphic_UnityEngine_Color_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Graphic,UnityEngine.Color,System.Single)
+  name.vb: DOColor(Graphic, Color, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Graphic, UnityEngine.Color, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Graphic, UnityEngine.Color, Single)
+  nameWithType: DOTweenModuleUI.DOColor(Graphic, Color, float)
+  nameWithType.vb: DOTweenModuleUI.DOColor(Graphic, Color, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Image,UnityEngine.Color,System.Single)
+  name: DOColor(Image, Color, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOColor_UnityEngine_UI_Image_UnityEngine_Color_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Image,UnityEngine.Color,System.Single)
+  name.vb: DOColor(Image, Color, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Image, UnityEngine.Color, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Image, UnityEngine.Color, Single)
+  nameWithType: DOTweenModuleUI.DOColor(Image, Color, float)
+  nameWithType.vb: DOTweenModuleUI.DOColor(Image, Color, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Outline,UnityEngine.Color,System.Single)
+  name: DOColor(Outline, Color, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOColor_UnityEngine_UI_Outline_UnityEngine_Color_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Outline,UnityEngine.Color,System.Single)
+  name.vb: DOColor(Outline, Color, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Outline, UnityEngine.Color, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Outline, UnityEngine.Color, Single)
+  nameWithType: DOTweenModuleUI.DOColor(Outline, Color, float)
+  nameWithType.vb: DOTweenModuleUI.DOColor(Outline, Color, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Text,UnityEngine.Color,System.Single)
+  name: DOColor(Text, Color, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOColor_UnityEngine_UI_Text_UnityEngine_Color_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Text,UnityEngine.Color,System.Single)
+  name.vb: DOColor(Text, Color, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Text, UnityEngine.Color, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOColor(UnityEngine.UI.Text, UnityEngine.Color, Single)
+  nameWithType: DOTweenModuleUI.DOColor(Text, Color, float)
+  nameWithType.vb: DOTweenModuleUI.DOColor(Text, Color, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOColor*
+  name: DOColor
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOColor_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOColor
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOColor
+  nameWithType: DOTweenModuleUI.DOColor
+- uid: DG.Tweening.DOTweenModuleUI.DOCounter(UnityEngine.UI.Text,System.Int32,System.Int32,System.Single,System.Boolean,System.Globalization.CultureInfo)
+  name: DOCounter(Text, int, int, float, bool, CultureInfo)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOCounter_UnityEngine_UI_Text_System_Int32_System_Int32_System_Single_System_Boolean_System_Globalization_CultureInfo_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOCounter(UnityEngine.UI.Text,System.Int32,System.Int32,System.Single,System.Boolean,System.Globalization.CultureInfo)
+  name.vb: DOCounter(Text, Integer, Integer, Single, Boolean, CultureInfo)
+  fullName: DG.Tweening.DOTweenModuleUI.DOCounter(UnityEngine.UI.Text, int, int, float, bool, System.Globalization.CultureInfo)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOCounter(UnityEngine.UI.Text, Integer, Integer, Single, Boolean, System.Globalization.CultureInfo)
+  nameWithType: DOTweenModuleUI.DOCounter(Text, int, int, float, bool, CultureInfo)
+  nameWithType.vb: DOTweenModuleUI.DOCounter(Text, Integer, Integer, Single, Boolean, CultureInfo)
+- uid: DG.Tweening.DOTweenModuleUI.DOCounter*
+  name: DOCounter
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOCounter_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOCounter
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOCounter
+  nameWithType: DOTweenModuleUI.DOCounter
+- uid: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.CanvasGroup,System.Single,System.Single)
+  name: DOFade(CanvasGroup, float, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOFade_UnityEngine_CanvasGroup_System_Single_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.CanvasGroup,System.Single,System.Single)
+  name.vb: DOFade(CanvasGroup, Single, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.CanvasGroup, float, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.CanvasGroup, Single, Single)
+  nameWithType: DOTweenModuleUI.DOFade(CanvasGroup, float, float)
+  nameWithType.vb: DOTweenModuleUI.DOFade(CanvasGroup, Single, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Graphic,System.Single,System.Single)
+  name: DOFade(Graphic, float, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOFade_UnityEngine_UI_Graphic_System_Single_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Graphic,System.Single,System.Single)
+  name.vb: DOFade(Graphic, Single, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Graphic, float, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Graphic, Single, Single)
+  nameWithType: DOTweenModuleUI.DOFade(Graphic, float, float)
+  nameWithType.vb: DOTweenModuleUI.DOFade(Graphic, Single, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Image,System.Single,System.Single)
+  name: DOFade(Image, float, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOFade_UnityEngine_UI_Image_System_Single_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Image,System.Single,System.Single)
+  name.vb: DOFade(Image, Single, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Image, float, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Image, Single, Single)
+  nameWithType: DOTweenModuleUI.DOFade(Image, float, float)
+  nameWithType.vb: DOTweenModuleUI.DOFade(Image, Single, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Outline,System.Single,System.Single)
+  name: DOFade(Outline, float, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOFade_UnityEngine_UI_Outline_System_Single_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Outline,System.Single,System.Single)
+  name.vb: DOFade(Outline, Single, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Outline, float, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Outline, Single, Single)
+  nameWithType: DOTweenModuleUI.DOFade(Outline, float, float)
+  nameWithType.vb: DOTweenModuleUI.DOFade(Outline, Single, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Text,System.Single,System.Single)
+  name: DOFade(Text, float, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOFade_UnityEngine_UI_Text_System_Single_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Text,System.Single,System.Single)
+  name.vb: DOFade(Text, Single, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Text, float, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOFade(UnityEngine.UI.Text, Single, Single)
+  nameWithType: DOTweenModuleUI.DOFade(Text, float, float)
+  nameWithType.vb: DOTweenModuleUI.DOFade(Text, Single, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOFade*
+  name: DOFade
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOFade_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOFade
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOFade
+  nameWithType: DOTweenModuleUI.DOFade
+- uid: DG.Tweening.DOTweenModuleUI.DOFillAmount(UnityEngine.UI.Image,System.Single,System.Single)
+  name: DOFillAmount(Image, float, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOFillAmount_UnityEngine_UI_Image_System_Single_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOFillAmount(UnityEngine.UI.Image,System.Single,System.Single)
+  name.vb: DOFillAmount(Image, Single, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOFillAmount(UnityEngine.UI.Image, float, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOFillAmount(UnityEngine.UI.Image, Single, Single)
+  nameWithType: DOTweenModuleUI.DOFillAmount(Image, float, float)
+  nameWithType.vb: DOTweenModuleUI.DOFillAmount(Image, Single, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOFillAmount*
+  name: DOFillAmount
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOFillAmount_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOFillAmount
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOFillAmount
+  nameWithType: DOTweenModuleUI.DOFillAmount
+- uid: DG.Tweening.DOTweenModuleUI.DOFlexibleSize(UnityEngine.UI.LayoutElement,UnityEngine.Vector2,System.Single,System.Boolean)
+  name: DOFlexibleSize(LayoutElement, Vector2, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOFlexibleSize_UnityEngine_UI_LayoutElement_UnityEngine_Vector2_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOFlexibleSize(UnityEngine.UI.LayoutElement,UnityEngine.Vector2,System.Single,System.Boolean)
+  name.vb: DOFlexibleSize(LayoutElement, Vector2, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOFlexibleSize(UnityEngine.UI.LayoutElement, UnityEngine.Vector2, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOFlexibleSize(UnityEngine.UI.LayoutElement, UnityEngine.Vector2, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOFlexibleSize(LayoutElement, Vector2, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOFlexibleSize(LayoutElement, Vector2, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOFlexibleSize*
+  name: DOFlexibleSize
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOFlexibleSize_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOFlexibleSize
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOFlexibleSize
+  nameWithType: DOTweenModuleUI.DOFlexibleSize
+- uid: DG.Tweening.DOTweenModuleUI.DOGradientColor(UnityEngine.UI.Image,UnityEngine.Gradient,System.Single)
+  name: DOGradientColor(Image, Gradient, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOGradientColor_UnityEngine_UI_Image_UnityEngine_Gradient_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOGradientColor(UnityEngine.UI.Image,UnityEngine.Gradient,System.Single)
+  name.vb: DOGradientColor(Image, Gradient, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOGradientColor(UnityEngine.UI.Image, UnityEngine.Gradient, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOGradientColor(UnityEngine.UI.Image, UnityEngine.Gradient, Single)
+  nameWithType: DOTweenModuleUI.DOGradientColor(Image, Gradient, float)
+  nameWithType.vb: DOTweenModuleUI.DOGradientColor(Image, Gradient, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOGradientColor*
+  name: DOGradientColor
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOGradientColor_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOGradientColor
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOGradientColor
+  nameWithType: DOTweenModuleUI.DOGradientColor
+- uid: DG.Tweening.DOTweenModuleUI.DOHorizontalNormalizedPos(UnityEngine.UI.ScrollRect,System.Single,System.Single,System.Boolean)
+  name: DOHorizontalNormalizedPos(ScrollRect, float, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOHorizontalNormalizedPos_UnityEngine_UI_ScrollRect_System_Single_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOHorizontalNormalizedPos(UnityEngine.UI.ScrollRect,System.Single,System.Single,System.Boolean)
+  name.vb: DOHorizontalNormalizedPos(ScrollRect, Single, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOHorizontalNormalizedPos(UnityEngine.UI.ScrollRect, float, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOHorizontalNormalizedPos(UnityEngine.UI.ScrollRect, Single, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOHorizontalNormalizedPos(ScrollRect, float, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOHorizontalNormalizedPos(ScrollRect, Single, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOHorizontalNormalizedPos*
+  name: DOHorizontalNormalizedPos
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOHorizontalNormalizedPos_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOHorizontalNormalizedPos
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOHorizontalNormalizedPos
+  nameWithType: DOTweenModuleUI.DOHorizontalNormalizedPos
+- uid: DG.Tweening.DOTweenModuleUI.DOJumpAnchorPos(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single,System.Int32,System.Single,System.Boolean)
+  name: DOJumpAnchorPos(RectTransform, Vector2, float, int, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOJumpAnchorPos_UnityEngine_RectTransform_UnityEngine_Vector2_System_Single_System_Int32_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOJumpAnchorPos(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single,System.Int32,System.Single,System.Boolean)
+  name.vb: DOJumpAnchorPos(RectTransform, Vector2, Single, Integer, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOJumpAnchorPos(UnityEngine.RectTransform, UnityEngine.Vector2, float, int, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOJumpAnchorPos(UnityEngine.RectTransform, UnityEngine.Vector2, Single, Integer, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOJumpAnchorPos(RectTransform, Vector2, float, int, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOJumpAnchorPos(RectTransform, Vector2, Single, Integer, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOJumpAnchorPos*
+  name: DOJumpAnchorPos
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOJumpAnchorPos_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOJumpAnchorPos
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOJumpAnchorPos
+  nameWithType: DOTweenModuleUI.DOJumpAnchorPos
+- uid: DG.Tweening.DOTweenModuleUI.DOMinSize(UnityEngine.UI.LayoutElement,UnityEngine.Vector2,System.Single,System.Boolean)
+  name: DOMinSize(LayoutElement, Vector2, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOMinSize_UnityEngine_UI_LayoutElement_UnityEngine_Vector2_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOMinSize(UnityEngine.UI.LayoutElement,UnityEngine.Vector2,System.Single,System.Boolean)
+  name.vb: DOMinSize(LayoutElement, Vector2, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOMinSize(UnityEngine.UI.LayoutElement, UnityEngine.Vector2, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOMinSize(UnityEngine.UI.LayoutElement, UnityEngine.Vector2, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOMinSize(LayoutElement, Vector2, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOMinSize(LayoutElement, Vector2, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOMinSize*
+  name: DOMinSize
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOMinSize_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOMinSize
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOMinSize
+  nameWithType: DOTweenModuleUI.DOMinSize
+- uid: DG.Tweening.DOTweenModuleUI.DONormalizedPos(UnityEngine.UI.ScrollRect,UnityEngine.Vector2,System.Single,System.Boolean)
+  name: DONormalizedPos(ScrollRect, Vector2, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DONormalizedPos_UnityEngine_UI_ScrollRect_UnityEngine_Vector2_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DONormalizedPos(UnityEngine.UI.ScrollRect,UnityEngine.Vector2,System.Single,System.Boolean)
+  name.vb: DONormalizedPos(ScrollRect, Vector2, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DONormalizedPos(UnityEngine.UI.ScrollRect, UnityEngine.Vector2, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DONormalizedPos(UnityEngine.UI.ScrollRect, UnityEngine.Vector2, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DONormalizedPos(ScrollRect, Vector2, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DONormalizedPos(ScrollRect, Vector2, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DONormalizedPos*
+  name: DONormalizedPos
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DONormalizedPos_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DONormalizedPos
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DONormalizedPos
+  nameWithType: DOTweenModuleUI.DONormalizedPos
+- uid: DG.Tweening.DOTweenModuleUI.DOPivot(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single)
+  name: DOPivot(RectTransform, Vector2, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOPivot_UnityEngine_RectTransform_UnityEngine_Vector2_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOPivot(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single)
+  name.vb: DOPivot(RectTransform, Vector2, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOPivot(UnityEngine.RectTransform, UnityEngine.Vector2, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOPivot(UnityEngine.RectTransform, UnityEngine.Vector2, Single)
+  nameWithType: DOTweenModuleUI.DOPivot(RectTransform, Vector2, float)
+  nameWithType.vb: DOTweenModuleUI.DOPivot(RectTransform, Vector2, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOPivot*
+  name: DOPivot
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOPivot_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOPivot
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOPivot
+  nameWithType: DOTweenModuleUI.DOPivot
+- uid: DG.Tweening.DOTweenModuleUI.DOPivotX(UnityEngine.RectTransform,System.Single,System.Single)
+  name: DOPivotX(RectTransform, float, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOPivotX_UnityEngine_RectTransform_System_Single_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOPivotX(UnityEngine.RectTransform,System.Single,System.Single)
+  name.vb: DOPivotX(RectTransform, Single, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOPivotX(UnityEngine.RectTransform, float, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOPivotX(UnityEngine.RectTransform, Single, Single)
+  nameWithType: DOTweenModuleUI.DOPivotX(RectTransform, float, float)
+  nameWithType.vb: DOTweenModuleUI.DOPivotX(RectTransform, Single, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOPivotX*
+  name: DOPivotX
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOPivotX_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOPivotX
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOPivotX
+  nameWithType: DOTweenModuleUI.DOPivotX
+- uid: DG.Tweening.DOTweenModuleUI.DOPivotY(UnityEngine.RectTransform,System.Single,System.Single)
+  name: DOPivotY(RectTransform, float, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOPivotY_UnityEngine_RectTransform_System_Single_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOPivotY(UnityEngine.RectTransform,System.Single,System.Single)
+  name.vb: DOPivotY(RectTransform, Single, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOPivotY(UnityEngine.RectTransform, float, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOPivotY(UnityEngine.RectTransform, Single, Single)
+  nameWithType: DOTweenModuleUI.DOPivotY(RectTransform, float, float)
+  nameWithType.vb: DOTweenModuleUI.DOPivotY(RectTransform, Single, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOPivotY*
+  name: DOPivotY
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOPivotY_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOPivotY
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOPivotY
+  nameWithType: DOTweenModuleUI.DOPivotY
+- uid: DG.Tweening.DOTweenModuleUI.DOPreferredSize(UnityEngine.UI.LayoutElement,UnityEngine.Vector2,System.Single,System.Boolean)
+  name: DOPreferredSize(LayoutElement, Vector2, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOPreferredSize_UnityEngine_UI_LayoutElement_UnityEngine_Vector2_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOPreferredSize(UnityEngine.UI.LayoutElement,UnityEngine.Vector2,System.Single,System.Boolean)
+  name.vb: DOPreferredSize(LayoutElement, Vector2, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOPreferredSize(UnityEngine.UI.LayoutElement, UnityEngine.Vector2, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOPreferredSize(UnityEngine.UI.LayoutElement, UnityEngine.Vector2, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOPreferredSize(LayoutElement, Vector2, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOPreferredSize(LayoutElement, Vector2, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOPreferredSize*
+  name: DOPreferredSize
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOPreferredSize_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOPreferredSize
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOPreferredSize
+  nameWithType: DOTweenModuleUI.DOPreferredSize
+- uid: DG.Tweening.DOTweenModuleUI.DOPunchAnchorPos(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single,System.Int32,System.Single,System.Boolean)
+  name: DOPunchAnchorPos(RectTransform, Vector2, float, int, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOPunchAnchorPos_UnityEngine_RectTransform_UnityEngine_Vector2_System_Single_System_Int32_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOPunchAnchorPos(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single,System.Int32,System.Single,System.Boolean)
+  name.vb: DOPunchAnchorPos(RectTransform, Vector2, Single, Integer, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOPunchAnchorPos(UnityEngine.RectTransform, UnityEngine.Vector2, float, int, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOPunchAnchorPos(UnityEngine.RectTransform, UnityEngine.Vector2, Single, Integer, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOPunchAnchorPos(RectTransform, Vector2, float, int, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOPunchAnchorPos(RectTransform, Vector2, Single, Integer, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOPunchAnchorPos*
+  name: DOPunchAnchorPos
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOPunchAnchorPos_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOPunchAnchorPos
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOPunchAnchorPos
+  nameWithType: DOTweenModuleUI.DOPunchAnchorPos
+- uid: DG.Tweening.DOTweenModuleUI.DOScale(UnityEngine.UI.Outline,UnityEngine.Vector2,System.Single)
+  name: DOScale(Outline, Vector2, float)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOScale_UnityEngine_UI_Outline_UnityEngine_Vector2_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOScale(UnityEngine.UI.Outline,UnityEngine.Vector2,System.Single)
+  name.vb: DOScale(Outline, Vector2, Single)
+  fullName: DG.Tweening.DOTweenModuleUI.DOScale(UnityEngine.UI.Outline, UnityEngine.Vector2, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOScale(UnityEngine.UI.Outline, UnityEngine.Vector2, Single)
+  nameWithType: DOTweenModuleUI.DOScale(Outline, Vector2, float)
+  nameWithType.vb: DOTweenModuleUI.DOScale(Outline, Vector2, Single)
+- uid: DG.Tweening.DOTweenModuleUI.DOScale*
+  name: DOScale
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOScale_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOScale
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOScale
+  nameWithType: DOTweenModuleUI.DOScale
+- uid: DG.Tweening.DOTweenModuleUI.DOShakeAnchorPos(UnityEngine.RectTransform,System.Single,System.Single,System.Int32,System.Single,System.Boolean,System.Boolean,DG.Tweening.ShakeRandomnessMode)
+  name: DOShakeAnchorPos(RectTransform, float, float, int, float, bool, bool, ShakeRandomnessMode)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOShakeAnchorPos_UnityEngine_RectTransform_System_Single_System_Single_System_Int32_System_Single_System_Boolean_System_Boolean_DG_Tweening_ShakeRandomnessMode_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOShakeAnchorPos(UnityEngine.RectTransform,System.Single,System.Single,System.Int32,System.Single,System.Boolean,System.Boolean,DG.Tweening.ShakeRandomnessMode)
+  name.vb: DOShakeAnchorPos(RectTransform, Single, Single, Integer, Single, Boolean, Boolean, ShakeRandomnessMode)
+  fullName: DG.Tweening.DOTweenModuleUI.DOShakeAnchorPos(UnityEngine.RectTransform, float, float, int, float, bool, bool, DG.Tweening.ShakeRandomnessMode)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOShakeAnchorPos(UnityEngine.RectTransform, Single, Single, Integer, Single, Boolean, Boolean, DG.Tweening.ShakeRandomnessMode)
+  nameWithType: DOTweenModuleUI.DOShakeAnchorPos(RectTransform, float, float, int, float, bool, bool, ShakeRandomnessMode)
+  nameWithType.vb: DOTweenModuleUI.DOShakeAnchorPos(RectTransform, Single, Single, Integer, Single, Boolean, Boolean, ShakeRandomnessMode)
+- uid: DG.Tweening.DOTweenModuleUI.DOShakeAnchorPos(UnityEngine.RectTransform,System.Single,UnityEngine.Vector2,System.Int32,System.Single,System.Boolean,System.Boolean,DG.Tweening.ShakeRandomnessMode)
+  name: DOShakeAnchorPos(RectTransform, float, Vector2, int, float, bool, bool, ShakeRandomnessMode)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOShakeAnchorPos_UnityEngine_RectTransform_System_Single_UnityEngine_Vector2_System_Int32_System_Single_System_Boolean_System_Boolean_DG_Tweening_ShakeRandomnessMode_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOShakeAnchorPos(UnityEngine.RectTransform,System.Single,UnityEngine.Vector2,System.Int32,System.Single,System.Boolean,System.Boolean,DG.Tweening.ShakeRandomnessMode)
+  name.vb: DOShakeAnchorPos(RectTransform, Single, Vector2, Integer, Single, Boolean, Boolean, ShakeRandomnessMode)
+  fullName: DG.Tweening.DOTweenModuleUI.DOShakeAnchorPos(UnityEngine.RectTransform, float, UnityEngine.Vector2, int, float, bool, bool, DG.Tweening.ShakeRandomnessMode)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOShakeAnchorPos(UnityEngine.RectTransform, Single, UnityEngine.Vector2, Integer, Single, Boolean, Boolean, DG.Tweening.ShakeRandomnessMode)
+  nameWithType: DOTweenModuleUI.DOShakeAnchorPos(RectTransform, float, Vector2, int, float, bool, bool, ShakeRandomnessMode)
+  nameWithType.vb: DOTweenModuleUI.DOShakeAnchorPos(RectTransform, Single, Vector2, Integer, Single, Boolean, Boolean, ShakeRandomnessMode)
+- uid: DG.Tweening.DOTweenModuleUI.DOShakeAnchorPos*
+  name: DOShakeAnchorPos
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOShakeAnchorPos_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOShakeAnchorPos
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOShakeAnchorPos
+  nameWithType: DOTweenModuleUI.DOShakeAnchorPos
+- uid: DG.Tweening.DOTweenModuleUI.DOShapeCircle(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single,System.Single,System.Boolean,System.Boolean)
+  name: DOShapeCircle(RectTransform, Vector2, float, float, bool, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOShapeCircle_UnityEngine_RectTransform_UnityEngine_Vector2_System_Single_System_Single_System_Boolean_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOShapeCircle(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single,System.Single,System.Boolean,System.Boolean)
+  name.vb: DOShapeCircle(RectTransform, Vector2, Single, Single, Boolean, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOShapeCircle(UnityEngine.RectTransform, UnityEngine.Vector2, float, float, bool, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOShapeCircle(UnityEngine.RectTransform, UnityEngine.Vector2, Single, Single, Boolean, Boolean)
+  nameWithType: DOTweenModuleUI.DOShapeCircle(RectTransform, Vector2, float, float, bool, bool)
+  nameWithType.vb: DOTweenModuleUI.DOShapeCircle(RectTransform, Vector2, Single, Single, Boolean, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOShapeCircle*
+  name: DOShapeCircle
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOShapeCircle_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOShapeCircle
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOShapeCircle
+  nameWithType: DOTweenModuleUI.DOShapeCircle
+- uid: DG.Tweening.DOTweenModuleUI.DOSizeDelta(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single,System.Boolean)
+  name: DOSizeDelta(RectTransform, Vector2, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOSizeDelta_UnityEngine_RectTransform_UnityEngine_Vector2_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOSizeDelta(UnityEngine.RectTransform,UnityEngine.Vector2,System.Single,System.Boolean)
+  name.vb: DOSizeDelta(RectTransform, Vector2, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOSizeDelta(UnityEngine.RectTransform, UnityEngine.Vector2, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOSizeDelta(UnityEngine.RectTransform, UnityEngine.Vector2, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOSizeDelta(RectTransform, Vector2, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOSizeDelta(RectTransform, Vector2, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOSizeDelta*
+  name: DOSizeDelta
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOSizeDelta_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOSizeDelta
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOSizeDelta
+  nameWithType: DOTweenModuleUI.DOSizeDelta
+- uid: DG.Tweening.DOTweenModuleUI.DOText(UnityEngine.UI.Text,System.String,System.Single,System.Boolean,DG.Tweening.ScrambleMode,System.String)
+  name: DOText(Text, string, float, bool, ScrambleMode, string)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOText_UnityEngine_UI_Text_System_String_System_Single_System_Boolean_DG_Tweening_ScrambleMode_System_String_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOText(UnityEngine.UI.Text,System.String,System.Single,System.Boolean,DG.Tweening.ScrambleMode,System.String)
+  name.vb: DOText(Text, String, Single, Boolean, ScrambleMode, String)
+  fullName: DG.Tweening.DOTweenModuleUI.DOText(UnityEngine.UI.Text, string, float, bool, DG.Tweening.ScrambleMode, string)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOText(UnityEngine.UI.Text, String, Single, Boolean, DG.Tweening.ScrambleMode, String)
+  nameWithType: DOTweenModuleUI.DOText(Text, string, float, bool, ScrambleMode, string)
+  nameWithType.vb: DOTweenModuleUI.DOText(Text, String, Single, Boolean, ScrambleMode, String)
+- uid: DG.Tweening.DOTweenModuleUI.DOText*
+  name: DOText
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOText_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOText
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOText
+  nameWithType: DOTweenModuleUI.DOText
+- uid: DG.Tweening.DOTweenModuleUI.DOValue(UnityEngine.UI.Slider,System.Single,System.Single,System.Boolean)
+  name: DOValue(Slider, float, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOValue_UnityEngine_UI_Slider_System_Single_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOValue(UnityEngine.UI.Slider,System.Single,System.Single,System.Boolean)
+  name.vb: DOValue(Slider, Single, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOValue(UnityEngine.UI.Slider, float, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOValue(UnityEngine.UI.Slider, Single, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOValue(Slider, float, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOValue(Slider, Single, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOValue*
+  name: DOValue
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOValue_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOValue
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOValue
+  nameWithType: DOTweenModuleUI.DOValue
+- uid: DG.Tweening.DOTweenModuleUI.DOVerticalNormalizedPos(UnityEngine.UI.ScrollRect,System.Single,System.Single,System.Boolean)
+  name: DOVerticalNormalizedPos(ScrollRect, float, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOVerticalNormalizedPos_UnityEngine_UI_ScrollRect_System_Single_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUI.DOVerticalNormalizedPos(UnityEngine.UI.ScrollRect,System.Single,System.Single,System.Boolean)
+  name.vb: DOVerticalNormalizedPos(ScrollRect, Single, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUI.DOVerticalNormalizedPos(UnityEngine.UI.ScrollRect, float, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUI.DOVerticalNormalizedPos(UnityEngine.UI.ScrollRect, Single, Single, Boolean)
+  nameWithType: DOTweenModuleUI.DOVerticalNormalizedPos(ScrollRect, float, float, bool)
+  nameWithType.vb: DOTweenModuleUI.DOVerticalNormalizedPos(ScrollRect, Single, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUI.DOVerticalNormalizedPos*
+  name: DOVerticalNormalizedPos
+  href: api/DG.Tweening.DOTweenModuleUI.html#DG_Tweening_DOTweenModuleUI_DOVerticalNormalizedPos_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.DOVerticalNormalizedPos
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.DOVerticalNormalizedPos
+  nameWithType: DOTweenModuleUI.DOVerticalNormalizedPos
+- uid: DG.Tweening.DOTweenModuleUI.Utils
+  name: DOTweenModuleUI.Utils
+  href: api/DG.Tweening.DOTweenModuleUI.Utils.html
+  commentId: T:DG.Tweening.DOTweenModuleUI.Utils
+  fullName: DG.Tweening.DOTweenModuleUI.Utils
+  nameWithType: DOTweenModuleUI.Utils
+- uid: DG.Tweening.DOTweenModuleUI.Utils.SwitchToRectTransform(UnityEngine.RectTransform,UnityEngine.RectTransform)
+  name: SwitchToRectTransform(RectTransform, RectTransform)
+  href: api/DG.Tweening.DOTweenModuleUI.Utils.html#DG_Tweening_DOTweenModuleUI_Utils_SwitchToRectTransform_UnityEngine_RectTransform_UnityEngine_RectTransform_
+  commentId: M:DG.Tweening.DOTweenModuleUI.Utils.SwitchToRectTransform(UnityEngine.RectTransform,UnityEngine.RectTransform)
+  fullName: DG.Tweening.DOTweenModuleUI.Utils.SwitchToRectTransform(UnityEngine.RectTransform, UnityEngine.RectTransform)
+  nameWithType: DOTweenModuleUI.Utils.SwitchToRectTransform(RectTransform, RectTransform)
+- uid: DG.Tweening.DOTweenModuleUI.Utils.SwitchToRectTransform*
+  name: SwitchToRectTransform
+  href: api/DG.Tweening.DOTweenModuleUI.Utils.html#DG_Tweening_DOTweenModuleUI_Utils_SwitchToRectTransform_
+  commentId: Overload:DG.Tweening.DOTweenModuleUI.Utils.SwitchToRectTransform
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUI.Utils.SwitchToRectTransform
+  nameWithType: DOTweenModuleUI.Utils.SwitchToRectTransform
+- uid: DG.Tweening.DOTweenModuleUnityVersion
+  name: DOTweenModuleUnityVersion
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html
+  commentId: T:DG.Tweening.DOTweenModuleUnityVersion
+  fullName: DG.Tweening.DOTweenModuleUnityVersion
+  nameWithType: DOTweenModuleUnityVersion
+- uid: DG.Tweening.DOTweenModuleUnityVersion.DOGradientColor(UnityEngine.Material,UnityEngine.Gradient,System.Single)
+  name: DOGradientColor(Material, Gradient, float)
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_DOGradientColor_UnityEngine_Material_UnityEngine_Gradient_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUnityVersion.DOGradientColor(UnityEngine.Material,UnityEngine.Gradient,System.Single)
+  name.vb: DOGradientColor(Material, Gradient, Single)
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.DOGradientColor(UnityEngine.Material, UnityEngine.Gradient, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUnityVersion.DOGradientColor(UnityEngine.Material, UnityEngine.Gradient, Single)
+  nameWithType: DOTweenModuleUnityVersion.DOGradientColor(Material, Gradient, float)
+  nameWithType.vb: DOTweenModuleUnityVersion.DOGradientColor(Material, Gradient, Single)
+- uid: DG.Tweening.DOTweenModuleUnityVersion.DOGradientColor(UnityEngine.Material,UnityEngine.Gradient,System.String,System.Single)
+  name: DOGradientColor(Material, Gradient, string, float)
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_DOGradientColor_UnityEngine_Material_UnityEngine_Gradient_System_String_System_Single_
+  commentId: M:DG.Tweening.DOTweenModuleUnityVersion.DOGradientColor(UnityEngine.Material,UnityEngine.Gradient,System.String,System.Single)
+  name.vb: DOGradientColor(Material, Gradient, String, Single)
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.DOGradientColor(UnityEngine.Material, UnityEngine.Gradient, string, float)
+  fullName.vb: DG.Tweening.DOTweenModuleUnityVersion.DOGradientColor(UnityEngine.Material, UnityEngine.Gradient, String, Single)
+  nameWithType: DOTweenModuleUnityVersion.DOGradientColor(Material, Gradient, string, float)
+  nameWithType.vb: DOTweenModuleUnityVersion.DOGradientColor(Material, Gradient, String, Single)
+- uid: DG.Tweening.DOTweenModuleUnityVersion.DOGradientColor*
+  name: DOGradientColor
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_DOGradientColor_
+  commentId: Overload:DG.Tweening.DOTweenModuleUnityVersion.DOGradientColor
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.DOGradientColor
+  nameWithType: DOTweenModuleUnityVersion.DOGradientColor
+- uid: DG.Tweening.DOTweenModuleUnityVersion.WaitForCompletion(DG.Tweening.Tween,System.Boolean)
+  name: WaitForCompletion(Tween, bool)
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_WaitForCompletion_DG_Tweening_Tween_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUnityVersion.WaitForCompletion(DG.Tweening.Tween,System.Boolean)
+  name.vb: WaitForCompletion(Tween, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.WaitForCompletion(DG.Tweening.Tween, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUnityVersion.WaitForCompletion(DG.Tweening.Tween, Boolean)
+  nameWithType: DOTweenModuleUnityVersion.WaitForCompletion(Tween, bool)
+  nameWithType.vb: DOTweenModuleUnityVersion.WaitForCompletion(Tween, Boolean)
+- uid: DG.Tweening.DOTweenModuleUnityVersion.WaitForCompletion*
+  name: WaitForCompletion
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_WaitForCompletion_
+  commentId: Overload:DG.Tweening.DOTweenModuleUnityVersion.WaitForCompletion
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.WaitForCompletion
+  nameWithType: DOTweenModuleUnityVersion.WaitForCompletion
+- uid: DG.Tweening.DOTweenModuleUnityVersion.WaitForElapsedLoops(DG.Tweening.Tween,System.Int32,System.Boolean)
+  name: WaitForElapsedLoops(Tween, int, bool)
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_WaitForElapsedLoops_DG_Tweening_Tween_System_Int32_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUnityVersion.WaitForElapsedLoops(DG.Tweening.Tween,System.Int32,System.Boolean)
+  name.vb: WaitForElapsedLoops(Tween, Integer, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.WaitForElapsedLoops(DG.Tweening.Tween, int, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUnityVersion.WaitForElapsedLoops(DG.Tweening.Tween, Integer, Boolean)
+  nameWithType: DOTweenModuleUnityVersion.WaitForElapsedLoops(Tween, int, bool)
+  nameWithType.vb: DOTweenModuleUnityVersion.WaitForElapsedLoops(Tween, Integer, Boolean)
+- uid: DG.Tweening.DOTweenModuleUnityVersion.WaitForElapsedLoops*
+  name: WaitForElapsedLoops
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_WaitForElapsedLoops_
+  commentId: Overload:DG.Tweening.DOTweenModuleUnityVersion.WaitForElapsedLoops
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.WaitForElapsedLoops
+  nameWithType: DOTweenModuleUnityVersion.WaitForElapsedLoops
+- uid: DG.Tweening.DOTweenModuleUnityVersion.WaitForKill(DG.Tweening.Tween,System.Boolean)
+  name: WaitForKill(Tween, bool)
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_WaitForKill_DG_Tweening_Tween_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUnityVersion.WaitForKill(DG.Tweening.Tween,System.Boolean)
+  name.vb: WaitForKill(Tween, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.WaitForKill(DG.Tweening.Tween, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUnityVersion.WaitForKill(DG.Tweening.Tween, Boolean)
+  nameWithType: DOTweenModuleUnityVersion.WaitForKill(Tween, bool)
+  nameWithType.vb: DOTweenModuleUnityVersion.WaitForKill(Tween, Boolean)
+- uid: DG.Tweening.DOTweenModuleUnityVersion.WaitForKill*
+  name: WaitForKill
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_WaitForKill_
+  commentId: Overload:DG.Tweening.DOTweenModuleUnityVersion.WaitForKill
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.WaitForKill
+  nameWithType: DOTweenModuleUnityVersion.WaitForKill
+- uid: DG.Tweening.DOTweenModuleUnityVersion.WaitForPosition(DG.Tweening.Tween,System.Single,System.Boolean)
+  name: WaitForPosition(Tween, float, bool)
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_WaitForPosition_DG_Tweening_Tween_System_Single_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUnityVersion.WaitForPosition(DG.Tweening.Tween,System.Single,System.Boolean)
+  name.vb: WaitForPosition(Tween, Single, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.WaitForPosition(DG.Tweening.Tween, float, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUnityVersion.WaitForPosition(DG.Tweening.Tween, Single, Boolean)
+  nameWithType: DOTweenModuleUnityVersion.WaitForPosition(Tween, float, bool)
+  nameWithType.vb: DOTweenModuleUnityVersion.WaitForPosition(Tween, Single, Boolean)
+- uid: DG.Tweening.DOTweenModuleUnityVersion.WaitForPosition*
+  name: WaitForPosition
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_WaitForPosition_
+  commentId: Overload:DG.Tweening.DOTweenModuleUnityVersion.WaitForPosition
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.WaitForPosition
+  nameWithType: DOTweenModuleUnityVersion.WaitForPosition
+- uid: DG.Tweening.DOTweenModuleUnityVersion.WaitForRewind(DG.Tweening.Tween,System.Boolean)
+  name: WaitForRewind(Tween, bool)
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_WaitForRewind_DG_Tweening_Tween_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUnityVersion.WaitForRewind(DG.Tweening.Tween,System.Boolean)
+  name.vb: WaitForRewind(Tween, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.WaitForRewind(DG.Tweening.Tween, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUnityVersion.WaitForRewind(DG.Tweening.Tween, Boolean)
+  nameWithType: DOTweenModuleUnityVersion.WaitForRewind(Tween, bool)
+  nameWithType.vb: DOTweenModuleUnityVersion.WaitForRewind(Tween, Boolean)
+- uid: DG.Tweening.DOTweenModuleUnityVersion.WaitForRewind*
+  name: WaitForRewind
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_WaitForRewind_
+  commentId: Overload:DG.Tweening.DOTweenModuleUnityVersion.WaitForRewind
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.WaitForRewind
+  nameWithType: DOTweenModuleUnityVersion.WaitForRewind
+- uid: DG.Tweening.DOTweenModuleUnityVersion.WaitForStart(DG.Tweening.Tween,System.Boolean)
+  name: WaitForStart(Tween, bool)
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_WaitForStart_DG_Tweening_Tween_System_Boolean_
+  commentId: M:DG.Tweening.DOTweenModuleUnityVersion.WaitForStart(DG.Tweening.Tween,System.Boolean)
+  name.vb: WaitForStart(Tween, Boolean)
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.WaitForStart(DG.Tweening.Tween, bool)
+  fullName.vb: DG.Tweening.DOTweenModuleUnityVersion.WaitForStart(DG.Tweening.Tween, Boolean)
+  nameWithType: DOTweenModuleUnityVersion.WaitForStart(Tween, bool)
+  nameWithType.vb: DOTweenModuleUnityVersion.WaitForStart(Tween, Boolean)
+- uid: DG.Tweening.DOTweenModuleUnityVersion.WaitForStart*
+  name: WaitForStart
+  href: api/DG.Tweening.DOTweenModuleUnityVersion.html#DG_Tweening_DOTweenModuleUnityVersion_WaitForStart_
+  commentId: Overload:DG.Tweening.DOTweenModuleUnityVersion.WaitForStart
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUnityVersion.WaitForStart
+  nameWithType: DOTweenModuleUnityVersion.WaitForStart
+- uid: DG.Tweening.DOTweenModuleUtils
+  name: DOTweenModuleUtils
+  href: api/DG.Tweening.DOTweenModuleUtils.html
+  commentId: T:DG.Tweening.DOTweenModuleUtils
+  fullName: DG.Tweening.DOTweenModuleUtils
+  nameWithType: DOTweenModuleUtils
+- uid: DG.Tweening.DOTweenModuleUtils.Init
+  name: Init()
+  href: api/DG.Tweening.DOTweenModuleUtils.html#DG_Tweening_DOTweenModuleUtils_Init
+  commentId: M:DG.Tweening.DOTweenModuleUtils.Init
+  fullName: DG.Tweening.DOTweenModuleUtils.Init()
+  nameWithType: DOTweenModuleUtils.Init()
+- uid: DG.Tweening.DOTweenModuleUtils.Init*
+  name: Init
+  href: api/DG.Tweening.DOTweenModuleUtils.html#DG_Tweening_DOTweenModuleUtils_Init_
+  commentId: Overload:DG.Tweening.DOTweenModuleUtils.Init
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUtils.Init
+  nameWithType: DOTweenModuleUtils.Init
+- uid: DG.Tweening.DOTweenModuleUtils.Physics
+  name: DOTweenModuleUtils.Physics
+  href: api/DG.Tweening.DOTweenModuleUtils.Physics.html
+  commentId: T:DG.Tweening.DOTweenModuleUtils.Physics
+  fullName: DG.Tweening.DOTweenModuleUtils.Physics
+  nameWithType: DOTweenModuleUtils.Physics
+- uid: DG.Tweening.DOTweenModuleUtils.Physics.CreateDOTweenPathTween(UnityEngine.MonoBehaviour,System.Boolean,System.Boolean,DG.Tweening.Plugins.Core.PathCore.Path,System.Single,DG.Tweening.PathMode)
+  name: CreateDOTweenPathTween(MonoBehaviour, bool, bool, Path, float, PathMode)
+  href: api/DG.Tweening.DOTweenModuleUtils.Physics.html#DG_Tweening_DOTweenModuleUtils_Physics_CreateDOTweenPathTween_UnityEngine_MonoBehaviour_System_Boolean_System_Boolean_DG_Tweening_Plugins_Core_PathCore_Path_System_Single_DG_Tweening_PathMode_
+  commentId: M:DG.Tweening.DOTweenModuleUtils.Physics.CreateDOTweenPathTween(UnityEngine.MonoBehaviour,System.Boolean,System.Boolean,DG.Tweening.Plugins.Core.PathCore.Path,System.Single,DG.Tweening.PathMode)
+  name.vb: CreateDOTweenPathTween(MonoBehaviour, Boolean, Boolean, Path, Single, PathMode)
+  fullName: DG.Tweening.DOTweenModuleUtils.Physics.CreateDOTweenPathTween(UnityEngine.MonoBehaviour, bool, bool, DG.Tweening.Plugins.Core.PathCore.Path, float, DG.Tweening.PathMode)
+  fullName.vb: DG.Tweening.DOTweenModuleUtils.Physics.CreateDOTweenPathTween(UnityEngine.MonoBehaviour, Boolean, Boolean, DG.Tweening.Plugins.Core.PathCore.Path, Single, DG.Tweening.PathMode)
+  nameWithType: DOTweenModuleUtils.Physics.CreateDOTweenPathTween(MonoBehaviour, bool, bool, Path, float, PathMode)
+  nameWithType.vb: DOTweenModuleUtils.Physics.CreateDOTweenPathTween(MonoBehaviour, Boolean, Boolean, Path, Single, PathMode)
+- uid: DG.Tweening.DOTweenModuleUtils.Physics.CreateDOTweenPathTween*
+  name: CreateDOTweenPathTween
+  href: api/DG.Tweening.DOTweenModuleUtils.Physics.html#DG_Tweening_DOTweenModuleUtils_Physics_CreateDOTweenPathTween_
+  commentId: Overload:DG.Tweening.DOTweenModuleUtils.Physics.CreateDOTweenPathTween
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUtils.Physics.CreateDOTweenPathTween
+  nameWithType: DOTweenModuleUtils.Physics.CreateDOTweenPathTween
+- uid: DG.Tweening.DOTweenModuleUtils.Physics.HasRigidbody(UnityEngine.Component)
+  name: HasRigidbody(Component)
+  href: api/DG.Tweening.DOTweenModuleUtils.Physics.html#DG_Tweening_DOTweenModuleUtils_Physics_HasRigidbody_UnityEngine_Component_
+  commentId: M:DG.Tweening.DOTweenModuleUtils.Physics.HasRigidbody(UnityEngine.Component)
+  fullName: DG.Tweening.DOTweenModuleUtils.Physics.HasRigidbody(UnityEngine.Component)
+  nameWithType: DOTweenModuleUtils.Physics.HasRigidbody(Component)
+- uid: DG.Tweening.DOTweenModuleUtils.Physics.HasRigidbody*
+  name: HasRigidbody
+  href: api/DG.Tweening.DOTweenModuleUtils.Physics.html#DG_Tweening_DOTweenModuleUtils_Physics_HasRigidbody_
+  commentId: Overload:DG.Tweening.DOTweenModuleUtils.Physics.HasRigidbody
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUtils.Physics.HasRigidbody
+  nameWithType: DOTweenModuleUtils.Physics.HasRigidbody
+- uid: DG.Tweening.DOTweenModuleUtils.Physics.HasRigidbody2D(UnityEngine.Component)
+  name: HasRigidbody2D(Component)
+  href: api/DG.Tweening.DOTweenModuleUtils.Physics.html#DG_Tweening_DOTweenModuleUtils_Physics_HasRigidbody2D_UnityEngine_Component_
+  commentId: M:DG.Tweening.DOTweenModuleUtils.Physics.HasRigidbody2D(UnityEngine.Component)
+  fullName: DG.Tweening.DOTweenModuleUtils.Physics.HasRigidbody2D(UnityEngine.Component)
+  nameWithType: DOTweenModuleUtils.Physics.HasRigidbody2D(Component)
+- uid: DG.Tweening.DOTweenModuleUtils.Physics.HasRigidbody2D*
+  name: HasRigidbody2D
+  href: api/DG.Tweening.DOTweenModuleUtils.Physics.html#DG_Tweening_DOTweenModuleUtils_Physics_HasRigidbody2D_
+  commentId: Overload:DG.Tweening.DOTweenModuleUtils.Physics.HasRigidbody2D
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUtils.Physics.HasRigidbody2D
+  nameWithType: DOTweenModuleUtils.Physics.HasRigidbody2D
+- uid: DG.Tweening.DOTweenModuleUtils.Physics.SetOrientationOnPath(DG.Tweening.Plugins.Options.PathOptions,DG.Tweening.Tween,UnityEngine.Quaternion,UnityEngine.Transform)
+  name: SetOrientationOnPath(PathOptions, Tween, Quaternion, Transform)
+  href: api/DG.Tweening.DOTweenModuleUtils.Physics.html#DG_Tweening_DOTweenModuleUtils_Physics_SetOrientationOnPath_DG_Tweening_Plugins_Options_PathOptions_DG_Tweening_Tween_UnityEngine_Quaternion_UnityEngine_Transform_
+  commentId: M:DG.Tweening.DOTweenModuleUtils.Physics.SetOrientationOnPath(DG.Tweening.Plugins.Options.PathOptions,DG.Tweening.Tween,UnityEngine.Quaternion,UnityEngine.Transform)
+  fullName: DG.Tweening.DOTweenModuleUtils.Physics.SetOrientationOnPath(DG.Tweening.Plugins.Options.PathOptions, DG.Tweening.Tween, UnityEngine.Quaternion, UnityEngine.Transform)
+  nameWithType: DOTweenModuleUtils.Physics.SetOrientationOnPath(PathOptions, Tween, Quaternion, Transform)
+- uid: DG.Tweening.DOTweenModuleUtils.Physics.SetOrientationOnPath*
+  name: SetOrientationOnPath
+  href: api/DG.Tweening.DOTweenModuleUtils.Physics.html#DG_Tweening_DOTweenModuleUtils_Physics_SetOrientationOnPath_
+  commentId: Overload:DG.Tweening.DOTweenModuleUtils.Physics.SetOrientationOnPath
+  isSpec: "True"
+  fullName: DG.Tweening.DOTweenModuleUtils.Physics.SetOrientationOnPath
+  nameWithType: DOTweenModuleUtils.Physics.SetOrientationOnPath
+- uid: MasterMot
+  name: MasterMot
+  href: api/MasterMot.html
+  commentId: N:MasterMot
+  fullName: MasterMot
+  nameWithType: MasterMot
+- uid: MasterMot.APIManager
+  name: APIManager
+  href: api/MasterMot.APIManager.html
+  commentId: T:MasterMot.APIManager
+  fullName: MasterMot.APIManager
+  nameWithType: APIManager
+- uid: MasterMot.APIManager.GetDailyWord
+  name: GetDailyWord()
+  href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetDailyWord
+  commentId: M:MasterMot.APIManager.GetDailyWord
+  fullName: MasterMot.APIManager.GetDailyWord()
+  nameWithType: APIManager.GetDailyWord()
+- uid: MasterMot.APIManager.GetDailyWord*
+  name: GetDailyWord
+  href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetDailyWord_
+  commentId: Overload:MasterMot.APIManager.GetDailyWord
+  isSpec: "True"
+  fullName: MasterMot.APIManager.GetDailyWord
+  nameWithType: APIManager.GetDailyWord
+- uid: MasterMot.APIManager.GetEasyWord
+  name: GetEasyWord()
+  href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetEasyWord
+  commentId: M:MasterMot.APIManager.GetEasyWord
+  fullName: MasterMot.APIManager.GetEasyWord()
+  nameWithType: APIManager.GetEasyWord()
+- uid: MasterMot.APIManager.GetEasyWord*
+  name: GetEasyWord
+  href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetEasyWord_
+  commentId: Overload:MasterMot.APIManager.GetEasyWord
+  isSpec: "True"
+  fullName: MasterMot.APIManager.GetEasyWord
+  nameWithType: APIManager.GetEasyWord
+- uid: MasterMot.APIManager.GetHardWord
+  name: GetHardWord()
+  href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetHardWord
+  commentId: M:MasterMot.APIManager.GetHardWord
+  fullName: MasterMot.APIManager.GetHardWord()
+  nameWithType: APIManager.GetHardWord()
+- uid: MasterMot.APIManager.GetHardWord*
+  name: GetHardWord
+  href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetHardWord_
+  commentId: Overload:MasterMot.APIManager.GetHardWord
+  isSpec: "True"
+  fullName: MasterMot.APIManager.GetHardWord
+  nameWithType: APIManager.GetHardWord
+- uid: MasterMot.APIManager.GetMediumWord
+  name: GetMediumWord()
+  href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetMediumWord
+  commentId: M:MasterMot.APIManager.GetMediumWord
+  fullName: MasterMot.APIManager.GetMediumWord()
+  nameWithType: APIManager.GetMediumWord()
+- uid: MasterMot.APIManager.GetMediumWord*
+  name: GetMediumWord
+  href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetMediumWord_
+  commentId: Overload:MasterMot.APIManager.GetMediumWord
+  isSpec: "True"
+  fullName: MasterMot.APIManager.GetMediumWord
+  nameWithType: APIManager.GetMediumWord
+- uid: MasterMot.APIManager.GetRandomWord
+  name: GetRandomWord()
+  href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetRandomWord
+  commentId: M:MasterMot.APIManager.GetRandomWord
+  fullName: MasterMot.APIManager.GetRandomWord()
+  nameWithType: APIManager.GetRandomWord()
+- uid: MasterMot.APIManager.GetRandomWord*
+  name: GetRandomWord
+  href: api/MasterMot.APIManager.html#MasterMot_APIManager_GetRandomWord_
+  commentId: Overload:MasterMot.APIManager.GetRandomWord
+  isSpec: "True"
+  fullName: MasterMot.APIManager.GetRandomWord
+  nameWithType: APIManager.GetRandomWord
+- uid: MasterMot.AudioController
+  name: AudioController
+  href: api/MasterMot.AudioController.html
+  commentId: T:MasterMot.AudioController
+  fullName: MasterMot.AudioController
+  nameWithType: AudioController
+- uid: MasterMot.AudioController.GetThis
+  name: GetThis()
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_GetThis
+  commentId: M:MasterMot.AudioController.GetThis
+  fullName: MasterMot.AudioController.GetThis()
+  nameWithType: AudioController.GetThis()
+- uid: MasterMot.AudioController.GetThis*
+  name: GetThis
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_GetThis_
+  commentId: Overload:MasterMot.AudioController.GetThis
+  isSpec: "True"
+  fullName: MasterMot.AudioController.GetThis
+  nameWithType: AudioController.GetThis
+- uid: MasterMot.AudioController.MusicValueIsChanged(System.Int32)
+  name: MusicValueIsChanged(int)
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_MusicValueIsChanged_System_Int32_
+  commentId: M:MasterMot.AudioController.MusicValueIsChanged(System.Int32)
+  name.vb: MusicValueIsChanged(Integer)
+  fullName: MasterMot.AudioController.MusicValueIsChanged(int)
+  fullName.vb: MasterMot.AudioController.MusicValueIsChanged(Integer)
+  nameWithType: AudioController.MusicValueIsChanged(int)
+  nameWithType.vb: AudioController.MusicValueIsChanged(Integer)
+- uid: MasterMot.AudioController.MusicValueIsChanged*
+  name: MusicValueIsChanged
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_MusicValueIsChanged_
+  commentId: Overload:MasterMot.AudioController.MusicValueIsChanged
+  isSpec: "True"
+  fullName: MasterMot.AudioController.MusicValueIsChanged
+  nameWithType: AudioController.MusicValueIsChanged
+- uid: MasterMot.AudioController.PlayBadLetter
+  name: PlayBadLetter()
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_PlayBadLetter
+  commentId: M:MasterMot.AudioController.PlayBadLetter
+  fullName: MasterMot.AudioController.PlayBadLetter()
+  nameWithType: AudioController.PlayBadLetter()
+- uid: MasterMot.AudioController.PlayBadLetter*
+  name: PlayBadLetter
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_PlayBadLetter_
+  commentId: Overload:MasterMot.AudioController.PlayBadLetter
+  isSpec: "True"
+  fullName: MasterMot.AudioController.PlayBadLetter
+  nameWithType: AudioController.PlayBadLetter
+- uid: MasterMot.AudioController.PlayButtonPress
+  name: PlayButtonPress()
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_PlayButtonPress
+  commentId: M:MasterMot.AudioController.PlayButtonPress
+  fullName: MasterMot.AudioController.PlayButtonPress()
+  nameWithType: AudioController.PlayButtonPress()
+- uid: MasterMot.AudioController.PlayButtonPress*
+  name: PlayButtonPress
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_PlayButtonPress_
+  commentId: Overload:MasterMot.AudioController.PlayButtonPress
+  isSpec: "True"
+  fullName: MasterMot.AudioController.PlayButtonPress
+  nameWithType: AudioController.PlayButtonPress
+- uid: MasterMot.AudioController.PlayGameMusic
+  name: PlayGameMusic()
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_PlayGameMusic
+  commentId: M:MasterMot.AudioController.PlayGameMusic
+  fullName: MasterMot.AudioController.PlayGameMusic()
+  nameWithType: AudioController.PlayGameMusic()
+- uid: MasterMot.AudioController.PlayGameMusic*
+  name: PlayGameMusic
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_PlayGameMusic_
+  commentId: Overload:MasterMot.AudioController.PlayGameMusic
+  isSpec: "True"
+  fullName: MasterMot.AudioController.PlayGameMusic
+  nameWithType: AudioController.PlayGameMusic
+- uid: MasterMot.AudioController.PlayGoodLetter
+  name: PlayGoodLetter()
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_PlayGoodLetter
+  commentId: M:MasterMot.AudioController.PlayGoodLetter
+  fullName: MasterMot.AudioController.PlayGoodLetter()
+  nameWithType: AudioController.PlayGoodLetter()
+- uid: MasterMot.AudioController.PlayGoodLetter*
+  name: PlayGoodLetter
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_PlayGoodLetter_
+  commentId: Overload:MasterMot.AudioController.PlayGoodLetter
+  isSpec: "True"
+  fullName: MasterMot.AudioController.PlayGoodLetter
+  nameWithType: AudioController.PlayGoodLetter
+- uid: MasterMot.AudioController.PlayWrongPlace
+  name: PlayWrongPlace()
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_PlayWrongPlace
+  commentId: M:MasterMot.AudioController.PlayWrongPlace
+  fullName: MasterMot.AudioController.PlayWrongPlace()
+  nameWithType: AudioController.PlayWrongPlace()
+- uid: MasterMot.AudioController.PlayWrongPlace*
+  name: PlayWrongPlace
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_PlayWrongPlace_
+  commentId: Overload:MasterMot.AudioController.PlayWrongPlace
+  isSpec: "True"
+  fullName: MasterMot.AudioController.PlayWrongPlace
+  nameWithType: AudioController.PlayWrongPlace
+- uid: MasterMot.AudioController.SFXValueIsChanged(System.Int32)
+  name: SFXValueIsChanged(int)
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_SFXValueIsChanged_System_Int32_
+  commentId: M:MasterMot.AudioController.SFXValueIsChanged(System.Int32)
+  name.vb: SFXValueIsChanged(Integer)
+  fullName: MasterMot.AudioController.SFXValueIsChanged(int)
+  fullName.vb: MasterMot.AudioController.SFXValueIsChanged(Integer)
+  nameWithType: AudioController.SFXValueIsChanged(int)
+  nameWithType.vb: AudioController.SFXValueIsChanged(Integer)
+- uid: MasterMot.AudioController.SFXValueIsChanged*
+  name: SFXValueIsChanged
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_SFXValueIsChanged_
+  commentId: Overload:MasterMot.AudioController.SFXValueIsChanged
+  isSpec: "True"
+  fullName: MasterMot.AudioController.SFXValueIsChanged
+  nameWithType: AudioController.SFXValueIsChanged
+- uid: MasterMot.AudioController.StopGameMusic
+  name: StopGameMusic()
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_StopGameMusic
+  commentId: M:MasterMot.AudioController.StopGameMusic
+  fullName: MasterMot.AudioController.StopGameMusic()
+  nameWithType: AudioController.StopGameMusic()
+- uid: MasterMot.AudioController.StopGameMusic*
+  name: StopGameMusic
+  href: api/MasterMot.AudioController.html#MasterMot_AudioController_StopGameMusic_
+  commentId: Overload:MasterMot.AudioController.StopGameMusic
+  isSpec: "True"
+  fullName: MasterMot.AudioController.StopGameMusic
+  nameWithType: AudioController.StopGameMusic
+- uid: MasterMot.GameManager
+  name: GameManager
+  href: api/MasterMot.GameManager.html
+  commentId: T:MasterMot.GameManager
+  fullName: MasterMot.GameManager
+  nameWithType: GameManager
+- uid: MasterMot.GameManager.DailyGame
+  name: DailyGame()
+  href: api/MasterMot.GameManager.html#MasterMot_GameManager_DailyGame
+  commentId: M:MasterMot.GameManager.DailyGame
+  fullName: MasterMot.GameManager.DailyGame()
+  nameWithType: GameManager.DailyGame()
+- uid: MasterMot.GameManager.DailyGame*
+  name: DailyGame
+  href: api/MasterMot.GameManager.html#MasterMot_GameManager_DailyGame_
+  commentId: Overload:MasterMot.GameManager.DailyGame
+  isSpec: "True"
+  fullName: MasterMot.GameManager.DailyGame
+  nameWithType: GameManager.DailyGame
+- uid: MasterMot.GameManager.GetThis
+  name: GetThis()
+  href: api/MasterMot.GameManager.html#MasterMot_GameManager_GetThis
+  commentId: M:MasterMot.GameManager.GetThis
+  fullName: MasterMot.GameManager.GetThis()
+  nameWithType: GameManager.GetThis()
+- uid: MasterMot.GameManager.GetThis*
+  name: GetThis
+  href: api/MasterMot.GameManager.html#MasterMot_GameManager_GetThis_
+  commentId: Overload:MasterMot.GameManager.GetThis
+  isSpec: "True"
+  fullName: MasterMot.GameManager.GetThis
+  nameWithType: GameManager.GetThis
+- uid: MasterMot.GameManager.GoToLeaderboards
+  name: GoToLeaderboards()
+  href: api/MasterMot.GameManager.html#MasterMot_GameManager_GoToLeaderboards
+  commentId: M:MasterMot.GameManager.GoToLeaderboards
+  fullName: MasterMot.GameManager.GoToLeaderboards()
+  nameWithType: GameManager.GoToLeaderboards()
+- uid: MasterMot.GameManager.GoToLeaderboards*
+  name: GoToLeaderboards
+  href: api/MasterMot.GameManager.html#MasterMot_GameManager_GoToLeaderboards_
+  commentId: Overload:MasterMot.GameManager.GoToLeaderboards
+  isSpec: "True"
+  fullName: MasterMot.GameManager.GoToLeaderboards
+  nameWithType: GameManager.GoToLeaderboards
+- uid: MasterMot.GameManager.GoToProfile
+  name: GoToProfile()
+  href: api/MasterMot.GameManager.html#MasterMot_GameManager_GoToProfile
+  commentId: M:MasterMot.GameManager.GoToProfile
+  fullName: MasterMot.GameManager.GoToProfile()
+  nameWithType: GameManager.GoToProfile()
+- uid: MasterMot.GameManager.GoToProfile*
+  name: GoToProfile
+  href: api/MasterMot.GameManager.html#MasterMot_GameManager_GoToProfile_
+  commentId: Overload:MasterMot.GameManager.GoToProfile
+  isSpec: "True"
+  fullName: MasterMot.GameManager.GoToProfile
+  nameWithType: GameManager.GoToProfile
+- uid: MasterMot.GameManager.NewGame
+  name: NewGame()
+  href: api/MasterMot.GameManager.html#MasterMot_GameManager_NewGame
+  commentId: M:MasterMot.GameManager.NewGame
+  fullName: MasterMot.GameManager.NewGame()
+  nameWithType: GameManager.NewGame()
+- uid: MasterMot.GameManager.NewGame*
+  name: NewGame
+  href: api/MasterMot.GameManager.html#MasterMot_GameManager_NewGame_
+  commentId: Overload:MasterMot.GameManager.NewGame
+  isSpec: "True"
+  fullName: MasterMot.GameManager.NewGame
+  nameWithType: GameManager.NewGame
+- uid: MasterMot.GameManager.RestartGame
+  name: RestartGame()
+  href: api/MasterMot.GameManager.html#MasterMot_GameManager_RestartGame
+  commentId: M:MasterMot.GameManager.RestartGame
+  fullName: MasterMot.GameManager.RestartGame()
+  nameWithType: GameManager.RestartGame()
+- uid: MasterMot.GameManager.RestartGame*
+  name: RestartGame
+  href: api/MasterMot.GameManager.html#MasterMot_GameManager_RestartGame_
+  commentId: Overload:MasterMot.GameManager.RestartGame
+  isSpec: "True"
+  fullName: MasterMot.GameManager.RestartGame
+  nameWithType: GameManager.RestartGame
+- uid: MasterMot.GameManager.ReturnToMenu
+  name: ReturnToMenu()
+  href: api/MasterMot.GameManager.html#MasterMot_GameManager_ReturnToMenu
+  commentId: M:MasterMot.GameManager.ReturnToMenu
+  fullName: MasterMot.GameManager.ReturnToMenu()
+  nameWithType: GameManager.ReturnToMenu()
+- uid: MasterMot.GameManager.ReturnToMenu*
+  name: ReturnToMenu
+  href: api/MasterMot.GameManager.html#MasterMot_GameManager_ReturnToMenu_
+  commentId: Overload:MasterMot.GameManager.ReturnToMenu
+  isSpec: "True"
+  fullName: MasterMot.GameManager.ReturnToMenu
+  nameWithType: GameManager.ReturnToMenu
+- uid: MasterMot.InputController
+  name: InputController
+  href: api/MasterMot.InputController.html
+  commentId: T:MasterMot.InputController
+  fullName: MasterMot.InputController
+  nameWithType: InputController
+- uid: MasterMot.InputController.AssignDifficultyButtons
+  name: AssignDifficultyButtons()
+  href: api/MasterMot.InputController.html#MasterMot_InputController_AssignDifficultyButtons
+  commentId: M:MasterMot.InputController.AssignDifficultyButtons
+  fullName: MasterMot.InputController.AssignDifficultyButtons()
+  nameWithType: InputController.AssignDifficultyButtons()
+- uid: MasterMot.InputController.AssignDifficultyButtons*
+  name: AssignDifficultyButtons
+  href: api/MasterMot.InputController.html#MasterMot_InputController_AssignDifficultyButtons_
+  commentId: Overload:MasterMot.InputController.AssignDifficultyButtons
+  isSpec: "True"
+  fullName: MasterMot.InputController.AssignDifficultyButtons
+  nameWithType: InputController.AssignDifficultyButtons
+- uid: MasterMot.InputController.AssignKeyboard
+  name: AssignKeyboard()
+  href: api/MasterMot.InputController.html#MasterMot_InputController_AssignKeyboard
+  commentId: M:MasterMot.InputController.AssignKeyboard
+  fullName: MasterMot.InputController.AssignKeyboard()
+  nameWithType: InputController.AssignKeyboard()
+- uid: MasterMot.InputController.AssignKeyboard*
+  name: AssignKeyboard
+  href: api/MasterMot.InputController.html#MasterMot_InputController_AssignKeyboard_
+  commentId: Overload:MasterMot.InputController.AssignKeyboard
+  isSpec: "True"
+  fullName: MasterMot.InputController.AssignKeyboard
+  nameWithType: InputController.AssignKeyboard
+- uid: MasterMot.InputController.AssignLeaderboardButtons
+  name: AssignLeaderboardButtons()
+  href: api/MasterMot.InputController.html#MasterMot_InputController_AssignLeaderboardButtons
+  commentId: M:MasterMot.InputController.AssignLeaderboardButtons
+  fullName: MasterMot.InputController.AssignLeaderboardButtons()
+  nameWithType: InputController.AssignLeaderboardButtons()
+- uid: MasterMot.InputController.AssignLeaderboardButtons*
+  name: AssignLeaderboardButtons
+  href: api/MasterMot.InputController.html#MasterMot_InputController_AssignLeaderboardButtons_
+  commentId: Overload:MasterMot.InputController.AssignLeaderboardButtons
+  isSpec: "True"
+  fullName: MasterMot.InputController.AssignLeaderboardButtons
+  nameWithType: InputController.AssignLeaderboardButtons
+- uid: MasterMot.InputController.AssignMenuButtons
+  name: AssignMenuButtons()
+  href: api/MasterMot.InputController.html#MasterMot_InputController_AssignMenuButtons
+  commentId: M:MasterMot.InputController.AssignMenuButtons
+  fullName: MasterMot.InputController.AssignMenuButtons()
+  nameWithType: InputController.AssignMenuButtons()
+- uid: MasterMot.InputController.AssignMenuButtons*
+  name: AssignMenuButtons
+  href: api/MasterMot.InputController.html#MasterMot_InputController_AssignMenuButtons_
+  commentId: Overload:MasterMot.InputController.AssignMenuButtons
+  isSpec: "True"
+  fullName: MasterMot.InputController.AssignMenuButtons
+  nameWithType: InputController.AssignMenuButtons
+- uid: MasterMot.InputController.AssignProfileButtons
+  name: AssignProfileButtons()
+  href: api/MasterMot.InputController.html#MasterMot_InputController_AssignProfileButtons
+  commentId: M:MasterMot.InputController.AssignProfileButtons
+  fullName: MasterMot.InputController.AssignProfileButtons()
+  nameWithType: InputController.AssignProfileButtons()
+- uid: MasterMot.InputController.AssignProfileButtons*
+  name: AssignProfileButtons
+  href: api/MasterMot.InputController.html#MasterMot_InputController_AssignProfileButtons_
+  commentId: Overload:MasterMot.InputController.AssignProfileButtons
+  isSpec: "True"
+  fullName: MasterMot.InputController.AssignProfileButtons
+  nameWithType: InputController.AssignProfileButtons
+- uid: MasterMot.InputController.AssignSettingsButtons
+  name: AssignSettingsButtons()
+  href: api/MasterMot.InputController.html#MasterMot_InputController_AssignSettingsButtons
+  commentId: M:MasterMot.InputController.AssignSettingsButtons
+  fullName: MasterMot.InputController.AssignSettingsButtons()
+  nameWithType: InputController.AssignSettingsButtons()
+- uid: MasterMot.InputController.AssignSettingsButtons*
+  name: AssignSettingsButtons
+  href: api/MasterMot.InputController.html#MasterMot_InputController_AssignSettingsButtons_
+  commentId: Overload:MasterMot.InputController.AssignSettingsButtons
+  isSpec: "True"
+  fullName: MasterMot.InputController.AssignSettingsButtons
+  nameWithType: InputController.AssignSettingsButtons
+- uid: MasterMot.InputController.AssignUsernameButtons
+  name: AssignUsernameButtons()
+  href: api/MasterMot.InputController.html#MasterMot_InputController_AssignUsernameButtons
+  commentId: M:MasterMot.InputController.AssignUsernameButtons
+  fullName: MasterMot.InputController.AssignUsernameButtons()
+  nameWithType: InputController.AssignUsernameButtons()
+- uid: MasterMot.InputController.AssignUsernameButtons*
+  name: AssignUsernameButtons
+  href: api/MasterMot.InputController.html#MasterMot_InputController_AssignUsernameButtons_
+  commentId: Overload:MasterMot.InputController.AssignUsernameButtons
+  isSpec: "True"
+  fullName: MasterMot.InputController.AssignUsernameButtons
+  nameWithType: InputController.AssignUsernameButtons
+- uid: MasterMot.InputController.GetThis
+  name: GetThis()
+  href: api/MasterMot.InputController.html#MasterMot_InputController_GetThis
+  commentId: M:MasterMot.InputController.GetThis
+  fullName: MasterMot.InputController.GetThis()
+  nameWithType: InputController.GetThis()
+- uid: MasterMot.InputController.GetThis*
+  name: GetThis
+  href: api/MasterMot.InputController.html#MasterMot_InputController_GetThis_
+  commentId: Overload:MasterMot.InputController.GetThis
+  isSpec: "True"
+  fullName: MasterMot.InputController.GetThis
+  nameWithType: InputController.GetThis
+- uid: MasterMot.PlayFabController
+  name: PlayFabController
+  href: api/MasterMot.PlayFabController.html
+  commentId: T:MasterMot.PlayFabController
+  fullName: MasterMot.PlayFabController
+  nameWithType: PlayFabController
+- uid: MasterMot.PlayFabController.GetDailyWord
+  name: GetDailyWord()
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetDailyWord
+  commentId: M:MasterMot.PlayFabController.GetDailyWord
+  fullName: MasterMot.PlayFabController.GetDailyWord()
+  nameWithType: PlayFabController.GetDailyWord()
+- uid: MasterMot.PlayFabController.GetDailyWord*
+  name: GetDailyWord
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetDailyWord_
+  commentId: Overload:MasterMot.PlayFabController.GetDailyWord
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.GetDailyWord
+  nameWithType: PlayFabController.GetDailyWord
+- uid: MasterMot.PlayFabController.GetDailyWordLeaderboard
+  name: GetDailyWordLeaderboard()
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetDailyWordLeaderboard
+  commentId: M:MasterMot.PlayFabController.GetDailyWordLeaderboard
+  fullName: MasterMot.PlayFabController.GetDailyWordLeaderboard()
+  nameWithType: PlayFabController.GetDailyWordLeaderboard()
+- uid: MasterMot.PlayFabController.GetDailyWordLeaderboard*
+  name: GetDailyWordLeaderboard
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetDailyWordLeaderboard_
+  commentId: Overload:MasterMot.PlayFabController.GetDailyWordLeaderboard
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.GetDailyWordLeaderboard
+  nameWithType: PlayFabController.GetDailyWordLeaderboard
+- uid: MasterMot.PlayFabController.GetHasPlayedDailyWord
+  name: GetHasPlayedDailyWord()
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetHasPlayedDailyWord
+  commentId: M:MasterMot.PlayFabController.GetHasPlayedDailyWord
+  fullName: MasterMot.PlayFabController.GetHasPlayedDailyWord()
+  nameWithType: PlayFabController.GetHasPlayedDailyWord()
+- uid: MasterMot.PlayFabController.GetHasPlayedDailyWord*
+  name: GetHasPlayedDailyWord
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetHasPlayedDailyWord_
+  commentId: Overload:MasterMot.PlayFabController.GetHasPlayedDailyWord
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.GetHasPlayedDailyWord
+  nameWithType: PlayFabController.GetHasPlayedDailyWord
+- uid: MasterMot.PlayFabController.GetPlayerCoins
+  name: GetPlayerCoins()
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetPlayerCoins
+  commentId: M:MasterMot.PlayFabController.GetPlayerCoins
+  fullName: MasterMot.PlayFabController.GetPlayerCoins()
+  nameWithType: PlayFabController.GetPlayerCoins()
+- uid: MasterMot.PlayFabController.GetPlayerCoins*
+  name: GetPlayerCoins
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetPlayerCoins_
+  commentId: Overload:MasterMot.PlayFabController.GetPlayerCoins
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.GetPlayerCoins
+  nameWithType: PlayFabController.GetPlayerCoins
+- uid: MasterMot.PlayFabController.GetPlayerGamesPlayed
+  name: GetPlayerGamesPlayed()
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetPlayerGamesPlayed
+  commentId: M:MasterMot.PlayFabController.GetPlayerGamesPlayed
+  fullName: MasterMot.PlayFabController.GetPlayerGamesPlayed()
+  nameWithType: PlayFabController.GetPlayerGamesPlayed()
+- uid: MasterMot.PlayFabController.GetPlayerGamesPlayed*
+  name: GetPlayerGamesPlayed
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetPlayerGamesPlayed_
+  commentId: Overload:MasterMot.PlayFabController.GetPlayerGamesPlayed
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.GetPlayerGamesPlayed
+  nameWithType: PlayFabController.GetPlayerGamesPlayed
+- uid: MasterMot.PlayFabController.GetPlayerGamesWon
+  name: GetPlayerGamesWon()
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetPlayerGamesWon
+  commentId: M:MasterMot.PlayFabController.GetPlayerGamesWon
+  fullName: MasterMot.PlayFabController.GetPlayerGamesWon()
+  nameWithType: PlayFabController.GetPlayerGamesWon()
+- uid: MasterMot.PlayFabController.GetPlayerGamesWon*
+  name: GetPlayerGamesWon
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetPlayerGamesWon_
+  commentId: Overload:MasterMot.PlayFabController.GetPlayerGamesWon
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.GetPlayerGamesWon
+  nameWithType: PlayFabController.GetPlayerGamesWon
+- uid: MasterMot.PlayFabController.GetStoredHasPlayedDailyWord
+  name: GetStoredHasPlayedDailyWord()
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetStoredHasPlayedDailyWord
+  commentId: M:MasterMot.PlayFabController.GetStoredHasPlayedDailyWord
+  fullName: MasterMot.PlayFabController.GetStoredHasPlayedDailyWord()
+  nameWithType: PlayFabController.GetStoredHasPlayedDailyWord()
+- uid: MasterMot.PlayFabController.GetStoredHasPlayedDailyWord*
+  name: GetStoredHasPlayedDailyWord
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetStoredHasPlayedDailyWord_
+  commentId: Overload:MasterMot.PlayFabController.GetStoredHasPlayedDailyWord
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.GetStoredHasPlayedDailyWord
+  nameWithType: PlayFabController.GetStoredHasPlayedDailyWord
+- uid: MasterMot.PlayFabController.GetStoredUsername
+  name: GetStoredUsername()
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetStoredUsername
+  commentId: M:MasterMot.PlayFabController.GetStoredUsername
+  fullName: MasterMot.PlayFabController.GetStoredUsername()
+  nameWithType: PlayFabController.GetStoredUsername()
+- uid: MasterMot.PlayFabController.GetStoredUsername*
+  name: GetStoredUsername
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetStoredUsername_
+  commentId: Overload:MasterMot.PlayFabController.GetStoredUsername
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.GetStoredUsername
+  nameWithType: PlayFabController.GetStoredUsername
+- uid: MasterMot.PlayFabController.GetThis
+  name: GetThis()
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetThis
+  commentId: M:MasterMot.PlayFabController.GetThis
+  fullName: MasterMot.PlayFabController.GetThis()
+  nameWithType: PlayFabController.GetThis()
+- uid: MasterMot.PlayFabController.GetThis*
+  name: GetThis
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetThis_
+  commentId: Overload:MasterMot.PlayFabController.GetThis
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.GetThis
+  nameWithType: PlayFabController.GetThis
+- uid: MasterMot.PlayFabController.GetUsername
+  name: GetUsername()
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetUsername
+  commentId: M:MasterMot.PlayFabController.GetUsername
+  fullName: MasterMot.PlayFabController.GetUsername()
+  nameWithType: PlayFabController.GetUsername()
+- uid: MasterMot.PlayFabController.GetUsername*
+  name: GetUsername
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_GetUsername_
+  commentId: Overload:MasterMot.PlayFabController.GetUsername
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.GetUsername
+  nameWithType: PlayFabController.GetUsername
+- uid: MasterMot.PlayFabController.InitialisePlayerProfile
+  name: InitialisePlayerProfile()
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_InitialisePlayerProfile
+  commentId: M:MasterMot.PlayFabController.InitialisePlayerProfile
+  fullName: MasterMot.PlayFabController.InitialisePlayerProfile()
+  nameWithType: PlayFabController.InitialisePlayerProfile()
+- uid: MasterMot.PlayFabController.InitialisePlayerProfile*
+  name: InitialisePlayerProfile
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_InitialisePlayerProfile_
+  commentId: Overload:MasterMot.PlayFabController.InitialisePlayerProfile
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.InitialisePlayerProfile
+  nameWithType: PlayFabController.InitialisePlayerProfile
+- uid: MasterMot.PlayFabController.SendDailyWordScore(System.Int32)
+  name: SendDailyWordScore(int)
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_SendDailyWordScore_System_Int32_
+  commentId: M:MasterMot.PlayFabController.SendDailyWordScore(System.Int32)
+  name.vb: SendDailyWordScore(Integer)
+  fullName: MasterMot.PlayFabController.SendDailyWordScore(int)
+  fullName.vb: MasterMot.PlayFabController.SendDailyWordScore(Integer)
+  nameWithType: PlayFabController.SendDailyWordScore(int)
+  nameWithType.vb: PlayFabController.SendDailyWordScore(Integer)
+- uid: MasterMot.PlayFabController.SendDailyWordScore*
+  name: SendDailyWordScore
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_SendDailyWordScore_
+  commentId: Overload:MasterMot.PlayFabController.SendDailyWordScore
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.SendDailyWordScore
+  nameWithType: PlayFabController.SendDailyWordScore
+- uid: MasterMot.PlayFabController.SetPlayerCoins(System.Int32)
+  name: SetPlayerCoins(int)
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_SetPlayerCoins_System_Int32_
+  commentId: M:MasterMot.PlayFabController.SetPlayerCoins(System.Int32)
+  name.vb: SetPlayerCoins(Integer)
+  fullName: MasterMot.PlayFabController.SetPlayerCoins(int)
+  fullName.vb: MasterMot.PlayFabController.SetPlayerCoins(Integer)
+  nameWithType: PlayFabController.SetPlayerCoins(int)
+  nameWithType.vb: PlayFabController.SetPlayerCoins(Integer)
+- uid: MasterMot.PlayFabController.SetPlayerCoins*
+  name: SetPlayerCoins
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_SetPlayerCoins_
+  commentId: Overload:MasterMot.PlayFabController.SetPlayerCoins
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.SetPlayerCoins
+  nameWithType: PlayFabController.SetPlayerCoins
+- uid: MasterMot.PlayFabController.SetPlayerGamesPlayed(System.Int32)
+  name: SetPlayerGamesPlayed(int)
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_SetPlayerGamesPlayed_System_Int32_
+  commentId: M:MasterMot.PlayFabController.SetPlayerGamesPlayed(System.Int32)
+  name.vb: SetPlayerGamesPlayed(Integer)
+  fullName: MasterMot.PlayFabController.SetPlayerGamesPlayed(int)
+  fullName.vb: MasterMot.PlayFabController.SetPlayerGamesPlayed(Integer)
+  nameWithType: PlayFabController.SetPlayerGamesPlayed(int)
+  nameWithType.vb: PlayFabController.SetPlayerGamesPlayed(Integer)
+- uid: MasterMot.PlayFabController.SetPlayerGamesPlayed*
+  name: SetPlayerGamesPlayed
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_SetPlayerGamesPlayed_
+  commentId: Overload:MasterMot.PlayFabController.SetPlayerGamesPlayed
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.SetPlayerGamesPlayed
+  nameWithType: PlayFabController.SetPlayerGamesPlayed
+- uid: MasterMot.PlayFabController.SetPlayerGamesWon(System.Int32)
+  name: SetPlayerGamesWon(int)
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_SetPlayerGamesWon_System_Int32_
+  commentId: M:MasterMot.PlayFabController.SetPlayerGamesWon(System.Int32)
+  name.vb: SetPlayerGamesWon(Integer)
+  fullName: MasterMot.PlayFabController.SetPlayerGamesWon(int)
+  fullName.vb: MasterMot.PlayFabController.SetPlayerGamesWon(Integer)
+  nameWithType: PlayFabController.SetPlayerGamesWon(int)
+  nameWithType.vb: PlayFabController.SetPlayerGamesWon(Integer)
+- uid: MasterMot.PlayFabController.SetPlayerGamesWon*
+  name: SetPlayerGamesWon
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_SetPlayerGamesWon_
+  commentId: Overload:MasterMot.PlayFabController.SetPlayerGamesWon
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.SetPlayerGamesWon
+  nameWithType: PlayFabController.SetPlayerGamesWon
+- uid: MasterMot.PlayFabController.SetUsername(System.String)
+  name: SetUsername(string)
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_SetUsername_System_String_
+  commentId: M:MasterMot.PlayFabController.SetUsername(System.String)
+  name.vb: SetUsername(String)
+  fullName: MasterMot.PlayFabController.SetUsername(string)
+  fullName.vb: MasterMot.PlayFabController.SetUsername(String)
+  nameWithType: PlayFabController.SetUsername(string)
+  nameWithType.vb: PlayFabController.SetUsername(String)
+- uid: MasterMot.PlayFabController.SetUsername*
+  name: SetUsername
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_SetUsername_
+  commentId: Overload:MasterMot.PlayFabController.SetUsername
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.SetUsername
+  nameWithType: PlayFabController.SetUsername
+- uid: MasterMot.PlayFabController.TellPlayedDailyWord
+  name: TellPlayedDailyWord()
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_TellPlayedDailyWord
+  commentId: M:MasterMot.PlayFabController.TellPlayedDailyWord
+  fullName: MasterMot.PlayFabController.TellPlayedDailyWord()
+  nameWithType: PlayFabController.TellPlayedDailyWord()
+- uid: MasterMot.PlayFabController.TellPlayedDailyWord*
+  name: TellPlayedDailyWord
+  href: api/MasterMot.PlayFabController.html#MasterMot_PlayFabController_TellPlayedDailyWord_
+  commentId: Overload:MasterMot.PlayFabController.TellPlayedDailyWord
+  isSpec: "True"
+  fullName: MasterMot.PlayFabController.TellPlayedDailyWord
+  nameWithType: PlayFabController.TellPlayedDailyWord
+- uid: MasterMot.UIController
+  name: UIController
+  href: api/MasterMot.UIController.html
+  commentId: T:MasterMot.UIController
+  fullName: MasterMot.UIController
+  nameWithType: UIController
+- uid: MasterMot.UIController.ChangeScreen(System.Int32)
+  name: ChangeScreen(int)
+  href: api/MasterMot.UIController.html#MasterMot_UIController_ChangeScreen_System_Int32_
+  commentId: M:MasterMot.UIController.ChangeScreen(System.Int32)
+  name.vb: ChangeScreen(Integer)
+  fullName: MasterMot.UIController.ChangeScreen(int)
+  fullName.vb: MasterMot.UIController.ChangeScreen(Integer)
+  nameWithType: UIController.ChangeScreen(int)
+  nameWithType.vb: UIController.ChangeScreen(Integer)
+- uid: MasterMot.UIController.ChangeScreen*
+  name: ChangeScreen
+  href: api/MasterMot.UIController.html#MasterMot_UIController_ChangeScreen_
+  commentId: Overload:MasterMot.UIController.ChangeScreen
+  isSpec: "True"
+  fullName: MasterMot.UIController.ChangeScreen
+  nameWithType: UIController.ChangeScreen
+- uid: MasterMot.UIController.DisableEndScreen
+  name: DisableEndScreen()
+  href: api/MasterMot.UIController.html#MasterMot_UIController_DisableEndScreen
+  commentId: M:MasterMot.UIController.DisableEndScreen
+  fullName: MasterMot.UIController.DisableEndScreen()
+  nameWithType: UIController.DisableEndScreen()
+- uid: MasterMot.UIController.DisableEndScreen*
+  name: DisableEndScreen
+  href: api/MasterMot.UIController.html#MasterMot_UIController_DisableEndScreen_
+  commentId: Overload:MasterMot.UIController.DisableEndScreen
+  isSpec: "True"
+  fullName: MasterMot.UIController.DisableEndScreen
+  nameWithType: UIController.DisableEndScreen
+- uid: MasterMot.UIController.EnableDefeatScreen(System.String)
+  name: EnableDefeatScreen(string)
+  href: api/MasterMot.UIController.html#MasterMot_UIController_EnableDefeatScreen_System_String_
+  commentId: M:MasterMot.UIController.EnableDefeatScreen(System.String)
+  name.vb: EnableDefeatScreen(String)
+  fullName: MasterMot.UIController.EnableDefeatScreen(string)
+  fullName.vb: MasterMot.UIController.EnableDefeatScreen(String)
+  nameWithType: UIController.EnableDefeatScreen(string)
+  nameWithType.vb: UIController.EnableDefeatScreen(String)
+- uid: MasterMot.UIController.EnableDefeatScreen*
+  name: EnableDefeatScreen
+  href: api/MasterMot.UIController.html#MasterMot_UIController_EnableDefeatScreen_
+  commentId: Overload:MasterMot.UIController.EnableDefeatScreen
+  isSpec: "True"
+  fullName: MasterMot.UIController.EnableDefeatScreen
+  nameWithType: UIController.EnableDefeatScreen
+- uid: MasterMot.UIController.EnableFirstTimeUsernameSetter
+  name: EnableFirstTimeUsernameSetter()
+  href: api/MasterMot.UIController.html#MasterMot_UIController_EnableFirstTimeUsernameSetter
+  commentId: M:MasterMot.UIController.EnableFirstTimeUsernameSetter
+  fullName: MasterMot.UIController.EnableFirstTimeUsernameSetter()
+  nameWithType: UIController.EnableFirstTimeUsernameSetter()
+- uid: MasterMot.UIController.EnableFirstTimeUsernameSetter*
+  name: EnableFirstTimeUsernameSetter
+  href: api/MasterMot.UIController.html#MasterMot_UIController_EnableFirstTimeUsernameSetter_
+  commentId: Overload:MasterMot.UIController.EnableFirstTimeUsernameSetter
+  isSpec: "True"
+  fullName: MasterMot.UIController.EnableFirstTimeUsernameSetter
+  nameWithType: UIController.EnableFirstTimeUsernameSetter
+- uid: MasterMot.UIController.EnableVictoryScreen(System.String)
+  name: EnableVictoryScreen(string)
+  href: api/MasterMot.UIController.html#MasterMot_UIController_EnableVictoryScreen_System_String_
+  commentId: M:MasterMot.UIController.EnableVictoryScreen(System.String)
+  name.vb: EnableVictoryScreen(String)
+  fullName: MasterMot.UIController.EnableVictoryScreen(string)
+  fullName.vb: MasterMot.UIController.EnableVictoryScreen(String)
+  nameWithType: UIController.EnableVictoryScreen(string)
+  nameWithType.vb: UIController.EnableVictoryScreen(String)
+- uid: MasterMot.UIController.EnableVictoryScreen*
+  name: EnableVictoryScreen
+  href: api/MasterMot.UIController.html#MasterMot_UIController_EnableVictoryScreen_
+  commentId: Overload:MasterMot.UIController.EnableVictoryScreen
+  isSpec: "True"
+  fullName: MasterMot.UIController.EnableVictoryScreen
+  nameWithType: UIController.EnableVictoryScreen
+- uid: MasterMot.UIController.GetDefeatDocument
+  name: GetDefeatDocument()
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GetDefeatDocument
+  commentId: M:MasterMot.UIController.GetDefeatDocument
+  fullName: MasterMot.UIController.GetDefeatDocument()
+  nameWithType: UIController.GetDefeatDocument()
+- uid: MasterMot.UIController.GetDefeatDocument*
+  name: GetDefeatDocument
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GetDefeatDocument_
+  commentId: Overload:MasterMot.UIController.GetDefeatDocument
+  isSpec: "True"
+  fullName: MasterMot.UIController.GetDefeatDocument
+  nameWithType: UIController.GetDefeatDocument
+- uid: MasterMot.UIController.GetDifficultyPicker
+  name: GetDifficultyPicker()
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GetDifficultyPicker
+  commentId: M:MasterMot.UIController.GetDifficultyPicker
+  fullName: MasterMot.UIController.GetDifficultyPicker()
+  nameWithType: UIController.GetDifficultyPicker()
+- uid: MasterMot.UIController.GetDifficultyPicker*
+  name: GetDifficultyPicker
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GetDifficultyPicker_
+  commentId: Overload:MasterMot.UIController.GetDifficultyPicker
+  isSpec: "True"
+  fullName: MasterMot.UIController.GetDifficultyPicker
+  nameWithType: UIController.GetDifficultyPicker
+- uid: MasterMot.UIController.GetLoadedSettings
+  name: GetLoadedSettings()
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GetLoadedSettings
+  commentId: M:MasterMot.UIController.GetLoadedSettings
+  fullName: MasterMot.UIController.GetLoadedSettings()
+  nameWithType: UIController.GetLoadedSettings()
+- uid: MasterMot.UIController.GetLoadedSettings*
+  name: GetLoadedSettings
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GetLoadedSettings_
+  commentId: Overload:MasterMot.UIController.GetLoadedSettings
+  isSpec: "True"
+  fullName: MasterMot.UIController.GetLoadedSettings
+  nameWithType: UIController.GetLoadedSettings
+- uid: MasterMot.UIController.GetMainMenuDocument
+  name: GetMainMenuDocument()
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GetMainMenuDocument
+  commentId: M:MasterMot.UIController.GetMainMenuDocument
+  fullName: MasterMot.UIController.GetMainMenuDocument()
+  nameWithType: UIController.GetMainMenuDocument()
+- uid: MasterMot.UIController.GetMainMenuDocument*
+  name: GetMainMenuDocument
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GetMainMenuDocument_
+  commentId: Overload:MasterMot.UIController.GetMainMenuDocument
+  isSpec: "True"
+  fullName: MasterMot.UIController.GetMainMenuDocument
+  nameWithType: UIController.GetMainMenuDocument
+- uid: MasterMot.UIController.GetThis
+  name: GetThis()
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GetThis
+  commentId: M:MasterMot.UIController.GetThis
+  fullName: MasterMot.UIController.GetThis()
+  nameWithType: UIController.GetThis()
+- uid: MasterMot.UIController.GetThis*
+  name: GetThis
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GetThis_
+  commentId: Overload:MasterMot.UIController.GetThis
+  isSpec: "True"
+  fullName: MasterMot.UIController.GetThis
+  nameWithType: UIController.GetThis
+- uid: MasterMot.UIController.GetUsernameSetter
+  name: GetUsernameSetter()
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GetUsernameSetter
+  commentId: M:MasterMot.UIController.GetUsernameSetter
+  fullName: MasterMot.UIController.GetUsernameSetter()
+  nameWithType: UIController.GetUsernameSetter()
+- uid: MasterMot.UIController.GetUsernameSetter*
+  name: GetUsernameSetter
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GetUsernameSetter_
+  commentId: Overload:MasterMot.UIController.GetUsernameSetter
+  isSpec: "True"
+  fullName: MasterMot.UIController.GetUsernameSetter
+  nameWithType: UIController.GetUsernameSetter
+- uid: MasterMot.UIController.GetVictoryDocument
+  name: GetVictoryDocument()
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GetVictoryDocument
+  commentId: M:MasterMot.UIController.GetVictoryDocument
+  fullName: MasterMot.UIController.GetVictoryDocument()
+  nameWithType: UIController.GetVictoryDocument()
+- uid: MasterMot.UIController.GetVictoryDocument*
+  name: GetVictoryDocument
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GetVictoryDocument_
+  commentId: Overload:MasterMot.UIController.GetVictoryDocument
+  isSpec: "True"
+  fullName: MasterMot.UIController.GetVictoryDocument
+  nameWithType: UIController.GetVictoryDocument
+- uid: MasterMot.UIController.GoBackFromDifficulty
+  name: GoBackFromDifficulty()
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GoBackFromDifficulty
+  commentId: M:MasterMot.UIController.GoBackFromDifficulty
+  fullName: MasterMot.UIController.GoBackFromDifficulty()
+  nameWithType: UIController.GoBackFromDifficulty()
+- uid: MasterMot.UIController.GoBackFromDifficulty*
+  name: GoBackFromDifficulty
+  href: api/MasterMot.UIController.html#MasterMot_UIController_GoBackFromDifficulty_
+  commentId: Overload:MasterMot.UIController.GoBackFromDifficulty
+  isSpec: "True"
+  fullName: MasterMot.UIController.GoBackFromDifficulty
+  nameWithType: UIController.GoBackFromDifficulty
+- uid: MasterMot.UIController.LoadSettingsMenu
+  name: LoadSettingsMenu()
+  href: api/MasterMot.UIController.html#MasterMot_UIController_LoadSettingsMenu
+  commentId: M:MasterMot.UIController.LoadSettingsMenu
+  fullName: MasterMot.UIController.LoadSettingsMenu()
+  nameWithType: UIController.LoadSettingsMenu()
+- uid: MasterMot.UIController.LoadSettingsMenu*
+  name: LoadSettingsMenu
+  href: api/MasterMot.UIController.html#MasterMot_UIController_LoadSettingsMenu_
+  commentId: Overload:MasterMot.UIController.LoadSettingsMenu
+  isSpec: "True"
+  fullName: MasterMot.UIController.LoadSettingsMenu
+  nameWithType: UIController.LoadSettingsMenu
+- uid: MasterMot.UIController.PickDifficulty
+  name: PickDifficulty()
+  href: api/MasterMot.UIController.html#MasterMot_UIController_PickDifficulty
+  commentId: M:MasterMot.UIController.PickDifficulty
+  fullName: MasterMot.UIController.PickDifficulty()
+  nameWithType: UIController.PickDifficulty()
+- uid: MasterMot.UIController.PickDifficulty*
+  name: PickDifficulty
+  href: api/MasterMot.UIController.html#MasterMot_UIController_PickDifficulty_
+  commentId: Overload:MasterMot.UIController.PickDifficulty
+  isSpec: "True"
+  fullName: MasterMot.UIController.PickDifficulty
+  nameWithType: UIController.PickDifficulty
+- uid: MasterMot.UIController.UnloadSettingsMenu
+  name: UnloadSettingsMenu()
+  href: api/MasterMot.UIController.html#MasterMot_UIController_UnloadSettingsMenu
+  commentId: M:MasterMot.UIController.UnloadSettingsMenu
+  fullName: MasterMot.UIController.UnloadSettingsMenu()
+  nameWithType: UIController.UnloadSettingsMenu()
+- uid: MasterMot.UIController.UnloadSettingsMenu*
+  name: UnloadSettingsMenu
+  href: api/MasterMot.UIController.html#MasterMot_UIController_UnloadSettingsMenu_
+  commentId: Overload:MasterMot.UIController.UnloadSettingsMenu
+  isSpec: "True"
+  fullName: MasterMot.UIController.UnloadSettingsMenu
+  nameWithType: UIController.UnloadSettingsMenu
+- uid: MasterMot.WordGameController
+  name: WordGameController
+  href: api/MasterMot.WordGameController.html
+  commentId: T:MasterMot.WordGameController
+  fullName: MasterMot.WordGameController
+  nameWithType: WordGameController
+- uid: MasterMot.WordGameController.AddAttempt(System.String)
+  name: AddAttempt(string)
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_AddAttempt_System_String_
+  commentId: M:MasterMot.WordGameController.AddAttempt(System.String)
+  name.vb: AddAttempt(String)
+  fullName: MasterMot.WordGameController.AddAttempt(string)
+  fullName.vb: MasterMot.WordGameController.AddAttempt(String)
+  nameWithType: WordGameController.AddAttempt(string)
+  nameWithType.vb: WordGameController.AddAttempt(String)
+- uid: MasterMot.WordGameController.AddAttempt*
+  name: AddAttempt
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_AddAttempt_
+  commentId: Overload:MasterMot.WordGameController.AddAttempt
+  isSpec: "True"
+  fullName: MasterMot.WordGameController.AddAttempt
+  nameWithType: WordGameController.AddAttempt
+- uid: MasterMot.WordGameController.CheckWord(System.String)
+  name: CheckWord(string)
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_CheckWord_System_String_
+  commentId: M:MasterMot.WordGameController.CheckWord(System.String)
+  name.vb: CheckWord(String)
+  fullName: MasterMot.WordGameController.CheckWord(string)
+  fullName.vb: MasterMot.WordGameController.CheckWord(String)
+  nameWithType: WordGameController.CheckWord(string)
+  nameWithType.vb: WordGameController.CheckWord(String)
+- uid: MasterMot.WordGameController.CheckWord*
+  name: CheckWord
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_CheckWord_
+  commentId: Overload:MasterMot.WordGameController.CheckWord
+  isSpec: "True"
+  fullName: MasterMot.WordGameController.CheckWord
+  nameWithType: WordGameController.CheckWord
+- uid: MasterMot.WordGameController.GetAttempts
+  name: GetAttempts()
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_GetAttempts
+  commentId: M:MasterMot.WordGameController.GetAttempts
+  fullName: MasterMot.WordGameController.GetAttempts()
+  nameWithType: WordGameController.GetAttempts()
+- uid: MasterMot.WordGameController.GetAttempts*
+  name: GetAttempts
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_GetAttempts_
+  commentId: Overload:MasterMot.WordGameController.GetAttempts
+  isSpec: "True"
+  fullName: MasterMot.WordGameController.GetAttempts
+  nameWithType: WordGameController.GetAttempts
+- uid: MasterMot.WordGameController.GetDailyWord
+  name: GetDailyWord()
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_GetDailyWord
+  commentId: M:MasterMot.WordGameController.GetDailyWord
+  fullName: MasterMot.WordGameController.GetDailyWord()
+  nameWithType: WordGameController.GetDailyWord()
+- uid: MasterMot.WordGameController.GetDailyWord*
+  name: GetDailyWord
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_GetDailyWord_
+  commentId: Overload:MasterMot.WordGameController.GetDailyWord
+  isSpec: "True"
+  fullName: MasterMot.WordGameController.GetDailyWord
+  nameWithType: WordGameController.GetDailyWord
+- uid: MasterMot.WordGameController.GetMaxAttempts
+  name: GetMaxAttempts()
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_GetMaxAttempts
+  commentId: M:MasterMot.WordGameController.GetMaxAttempts
+  fullName: MasterMot.WordGameController.GetMaxAttempts()
+  nameWithType: WordGameController.GetMaxAttempts()
+- uid: MasterMot.WordGameController.GetMaxAttempts*
+  name: GetMaxAttempts
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_GetMaxAttempts_
+  commentId: Overload:MasterMot.WordGameController.GetMaxAttempts
+  isSpec: "True"
+  fullName: MasterMot.WordGameController.GetMaxAttempts
+  nameWithType: WordGameController.GetMaxAttempts
+- uid: MasterMot.WordGameController.GetMot
+  name: GetMot()
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_GetMot
+  commentId: M:MasterMot.WordGameController.GetMot
+  fullName: MasterMot.WordGameController.GetMot()
+  nameWithType: WordGameController.GetMot()
+- uid: MasterMot.WordGameController.GetMot*
+  name: GetMot
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_GetMot_
+  commentId: Overload:MasterMot.WordGameController.GetMot
+  isSpec: "True"
+  fullName: MasterMot.WordGameController.GetMot
+  nameWithType: WordGameController.GetMot
+- uid: MasterMot.WordGameController.IsWordCorrect(System.String)
+  name: IsWordCorrect(string)
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_IsWordCorrect_System_String_
+  commentId: M:MasterMot.WordGameController.IsWordCorrect(System.String)
+  name.vb: IsWordCorrect(String)
+  fullName: MasterMot.WordGameController.IsWordCorrect(string)
+  fullName.vb: MasterMot.WordGameController.IsWordCorrect(String)
+  nameWithType: WordGameController.IsWordCorrect(string)
+  nameWithType.vb: WordGameController.IsWordCorrect(String)
+- uid: MasterMot.WordGameController.IsWordCorrect*
+  name: IsWordCorrect
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_IsWordCorrect_
+  commentId: Overload:MasterMot.WordGameController.IsWordCorrect
+  isSpec: "True"
+  fullName: MasterMot.WordGameController.IsWordCorrect
+  nameWithType: WordGameController.IsWordCorrect
+- uid: MasterMot.WordGameController.IsWordValid(System.String)
+  name: IsWordValid(string)
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_IsWordValid_System_String_
+  commentId: M:MasterMot.WordGameController.IsWordValid(System.String)
+  name.vb: IsWordValid(String)
+  fullName: MasterMot.WordGameController.IsWordValid(string)
+  fullName.vb: MasterMot.WordGameController.IsWordValid(String)
+  nameWithType: WordGameController.IsWordValid(string)
+  nameWithType.vb: WordGameController.IsWordValid(String)
+- uid: MasterMot.WordGameController.IsWordValid*
+  name: IsWordValid
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_IsWordValid_
+  commentId: Overload:MasterMot.WordGameController.IsWordValid
+  isSpec: "True"
+  fullName: MasterMot.WordGameController.IsWordValid
+  nameWithType: WordGameController.IsWordValid
+- uid: MasterMot.WordGameController.MakeNewAttempt
+  name: MakeNewAttempt()
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_MakeNewAttempt
+  commentId: M:MasterMot.WordGameController.MakeNewAttempt
+  fullName: MasterMot.WordGameController.MakeNewAttempt()
+  nameWithType: WordGameController.MakeNewAttempt()
+- uid: MasterMot.WordGameController.MakeNewAttempt*
+  name: MakeNewAttempt
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_MakeNewAttempt_
+  commentId: Overload:MasterMot.WordGameController.MakeNewAttempt
+  isSpec: "True"
+  fullName: MasterMot.WordGameController.MakeNewAttempt
+  nameWithType: WordGameController.MakeNewAttempt
+- uid: MasterMot.WordGameController.Restart
+  name: Restart()
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_Restart
+  commentId: M:MasterMot.WordGameController.Restart
+  fullName: MasterMot.WordGameController.Restart()
+  nameWithType: WordGameController.Restart()
+- uid: MasterMot.WordGameController.Restart*
+  name: Restart
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_Restart_
+  commentId: Overload:MasterMot.WordGameController.Restart
+  isSpec: "True"
+  fullName: MasterMot.WordGameController.Restart
+  nameWithType: WordGameController.Restart
+- uid: MasterMot.WordGameController.SetDailyWord(System.Boolean)
+  name: SetDailyWord(bool)
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_SetDailyWord_System_Boolean_
+  commentId: M:MasterMot.WordGameController.SetDailyWord(System.Boolean)
+  name.vb: SetDailyWord(Boolean)
+  fullName: MasterMot.WordGameController.SetDailyWord(bool)
+  fullName.vb: MasterMot.WordGameController.SetDailyWord(Boolean)
+  nameWithType: WordGameController.SetDailyWord(bool)
+  nameWithType.vb: WordGameController.SetDailyWord(Boolean)
+- uid: MasterMot.WordGameController.SetDailyWord*
+  name: SetDailyWord
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_SetDailyWord_
+  commentId: Overload:MasterMot.WordGameController.SetDailyWord
+  isSpec: "True"
+  fullName: MasterMot.WordGameController.SetDailyWord
+  nameWithType: WordGameController.SetDailyWord
+- uid: MasterMot.WordGameController.SetDifficulty(DifficultyEnum)
+  name: SetDifficulty(DifficultyEnum)
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_SetDifficulty_DifficultyEnum_
+  commentId: M:MasterMot.WordGameController.SetDifficulty(DifficultyEnum)
+  fullName: MasterMot.WordGameController.SetDifficulty(DifficultyEnum)
+  nameWithType: WordGameController.SetDifficulty(DifficultyEnum)
+- uid: MasterMot.WordGameController.SetDifficulty*
+  name: SetDifficulty
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_SetDifficulty_
+  commentId: Overload:MasterMot.WordGameController.SetDifficulty
+  isSpec: "True"
+  fullName: MasterMot.WordGameController.SetDifficulty
+  nameWithType: WordGameController.SetDifficulty
+- uid: MasterMot.WordGameController.SetWord(System.String)
+  name: SetWord(string)
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_SetWord_System_String_
+  commentId: M:MasterMot.WordGameController.SetWord(System.String)
+  name.vb: SetWord(String)
+  fullName: MasterMot.WordGameController.SetWord(string)
+  fullName.vb: MasterMot.WordGameController.SetWord(String)
+  nameWithType: WordGameController.SetWord(string)
+  nameWithType.vb: WordGameController.SetWord(String)
+- uid: MasterMot.WordGameController.SetWord*
+  name: SetWord
+  href: api/MasterMot.WordGameController.html#MasterMot_WordGameController_SetWord_
+  commentId: Overload:MasterMot.WordGameController.SetWord
+  isSpec: "True"
+  fullName: MasterMot.WordGameController.SetWord
+  nameWithType: WordGameController.SetWord
+- uid: MasterMot.WordGameRenderer
+  name: WordGameRenderer
+  href: api/MasterMot.WordGameRenderer.html
+  commentId: T:MasterMot.WordGameRenderer
+  fullName: MasterMot.WordGameRenderer
+  nameWithType: WordGameRenderer
+- uid: MasterMot.WordGameRenderer.AnimateAttemptRow(System.Collections.Generic.List{LetterStatusEnum})
+  name: AnimateAttemptRow(List<LetterStatusEnum>)
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_AnimateAttemptRow_System_Collections_Generic_List_LetterStatusEnum__
+  commentId: M:MasterMot.WordGameRenderer.AnimateAttemptRow(System.Collections.Generic.List{LetterStatusEnum})
+  name.vb: AnimateAttemptRow(List(Of LetterStatusEnum))
+  fullName: MasterMot.WordGameRenderer.AnimateAttemptRow(System.Collections.Generic.List<LetterStatusEnum>)
+  fullName.vb: MasterMot.WordGameRenderer.AnimateAttemptRow(System.Collections.Generic.List(Of LetterStatusEnum))
+  nameWithType: WordGameRenderer.AnimateAttemptRow(List<LetterStatusEnum>)
+  nameWithType.vb: WordGameRenderer.AnimateAttemptRow(List(Of LetterStatusEnum))
+- uid: MasterMot.WordGameRenderer.AnimateAttemptRow*
+  name: AnimateAttemptRow
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_AnimateAttemptRow_
+  commentId: Overload:MasterMot.WordGameRenderer.AnimateAttemptRow
+  isSpec: "True"
+  fullName: MasterMot.WordGameRenderer.AnimateAttemptRow
+  nameWithType: WordGameRenderer.AnimateAttemptRow
+- uid: MasterMot.WordGameRenderer.ColorLetterCell(UnityEngine.UIElements.VisualElement,LetterStatusEnum)
+  name: ColorLetterCell(VisualElement, LetterStatusEnum)
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_ColorLetterCell_UnityEngine_UIElements_VisualElement_LetterStatusEnum_
+  commentId: M:MasterMot.WordGameRenderer.ColorLetterCell(UnityEngine.UIElements.VisualElement,LetterStatusEnum)
+  fullName: MasterMot.WordGameRenderer.ColorLetterCell(UnityEngine.UIElements.VisualElement, LetterStatusEnum)
+  nameWithType: WordGameRenderer.ColorLetterCell(VisualElement, LetterStatusEnum)
+- uid: MasterMot.WordGameRenderer.ColorLetterCell*
+  name: ColorLetterCell
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_ColorLetterCell_
+  commentId: Overload:MasterMot.WordGameRenderer.ColorLetterCell
+  isSpec: "True"
+  fullName: MasterMot.WordGameRenderer.ColorLetterCell
+  nameWithType: WordGameRenderer.ColorLetterCell
+- uid: MasterMot.WordGameRenderer.DrawLetterCells
+  name: DrawLetterCells()
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_DrawLetterCells
+  commentId: M:MasterMot.WordGameRenderer.DrawLetterCells
+  fullName: MasterMot.WordGameRenderer.DrawLetterCells()
+  nameWithType: WordGameRenderer.DrawLetterCells()
+- uid: MasterMot.WordGameRenderer.DrawLetterCells*
+  name: DrawLetterCells
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_DrawLetterCells_
+  commentId: Overload:MasterMot.WordGameRenderer.DrawLetterCells
+  isSpec: "True"
+  fullName: MasterMot.WordGameRenderer.DrawLetterCells
+  nameWithType: WordGameRenderer.DrawLetterCells
+- uid: MasterMot.WordGameRenderer.GetKeyboardKeys
+  name: GetKeyboardKeys()
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_GetKeyboardKeys
+  commentId: M:MasterMot.WordGameRenderer.GetKeyboardKeys
+  fullName: MasterMot.WordGameRenderer.GetKeyboardKeys()
+  nameWithType: WordGameRenderer.GetKeyboardKeys()
+- uid: MasterMot.WordGameRenderer.GetKeyboardKeys*
+  name: GetKeyboardKeys
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_GetKeyboardKeys_
+  commentId: Overload:MasterMot.WordGameRenderer.GetKeyboardKeys
+  isSpec: "True"
+  fullName: MasterMot.WordGameRenderer.GetKeyboardKeys
+  nameWithType: WordGameRenderer.GetKeyboardKeys
+- uid: MasterMot.WordGameRenderer.GetMot
+  name: GetMot()
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_GetMot
+  commentId: M:MasterMot.WordGameRenderer.GetMot
+  fullName: MasterMot.WordGameRenderer.GetMot()
+  nameWithType: WordGameRenderer.GetMot()
+- uid: MasterMot.WordGameRenderer.GetMot*
+  name: GetMot
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_GetMot_
+  commentId: Overload:MasterMot.WordGameRenderer.GetMot
+  isSpec: "True"
+  fullName: MasterMot.WordGameRenderer.GetMot
+  nameWithType: WordGameRenderer.GetMot
+- uid: MasterMot.WordGameRenderer.GetSettingsButton
+  name: GetSettingsButton()
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_GetSettingsButton
+  commentId: M:MasterMot.WordGameRenderer.GetSettingsButton
+  fullName: MasterMot.WordGameRenderer.GetSettingsButton()
+  nameWithType: WordGameRenderer.GetSettingsButton()
+- uid: MasterMot.WordGameRenderer.GetSettingsButton*
+  name: GetSettingsButton
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_GetSettingsButton_
+  commentId: Overload:MasterMot.WordGameRenderer.GetSettingsButton
+  isSpec: "True"
+  fullName: MasterMot.WordGameRenderer.GetSettingsButton
+  nameWithType: WordGameRenderer.GetSettingsButton
+- uid: MasterMot.WordGameRenderer.IncrementAttempts
+  name: IncrementAttempts()
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_IncrementAttempts
+  commentId: M:MasterMot.WordGameRenderer.IncrementAttempts
+  fullName: MasterMot.WordGameRenderer.IncrementAttempts()
+  nameWithType: WordGameRenderer.IncrementAttempts()
+- uid: MasterMot.WordGameRenderer.IncrementAttempts*
+  name: IncrementAttempts
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_IncrementAttempts_
+  commentId: Overload:MasterMot.WordGameRenderer.IncrementAttempts
+  isSpec: "True"
+  fullName: MasterMot.WordGameRenderer.IncrementAttempts
+  nameWithType: WordGameRenderer.IncrementAttempts
+- uid: MasterMot.WordGameRenderer.InsertLetter(System.Char)
+  name: InsertLetter(char)
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_InsertLetter_System_Char_
+  commentId: M:MasterMot.WordGameRenderer.InsertLetter(System.Char)
+  name.vb: InsertLetter(Char)
+  fullName: MasterMot.WordGameRenderer.InsertLetter(char)
+  fullName.vb: MasterMot.WordGameRenderer.InsertLetter(Char)
+  nameWithType: WordGameRenderer.InsertLetter(char)
+  nameWithType.vb: WordGameRenderer.InsertLetter(Char)
+- uid: MasterMot.WordGameRenderer.InsertLetter*
+  name: InsertLetter
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_InsertLetter_
+  commentId: Overload:MasterMot.WordGameRenderer.InsertLetter
+  isSpec: "True"
+  fullName: MasterMot.WordGameRenderer.InsertLetter
+  nameWithType: WordGameRenderer.InsertLetter
+- uid: MasterMot.WordGameRenderer.RemoveLastLetter
+  name: RemoveLastLetter()
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_RemoveLastLetter
+  commentId: M:MasterMot.WordGameRenderer.RemoveLastLetter
+  fullName: MasterMot.WordGameRenderer.RemoveLastLetter()
+  nameWithType: WordGameRenderer.RemoveLastLetter()
+- uid: MasterMot.WordGameRenderer.RemoveLastLetter*
+  name: RemoveLastLetter
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_RemoveLastLetter_
+  commentId: Overload:MasterMot.WordGameRenderer.RemoveLastLetter
+  isSpec: "True"
+  fullName: MasterMot.WordGameRenderer.RemoveLastLetter
+  nameWithType: WordGameRenderer.RemoveLastLetter
+- uid: MasterMot.WordGameRenderer.Restart
+  name: Restart()
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_Restart
+  commentId: M:MasterMot.WordGameRenderer.Restart
+  fullName: MasterMot.WordGameRenderer.Restart()
+  nameWithType: WordGameRenderer.Restart()
+- uid: MasterMot.WordGameRenderer.Restart*
+  name: Restart
+  href: api/MasterMot.WordGameRenderer.html#MasterMot_WordGameRenderer_Restart_
+  commentId: Overload:MasterMot.WordGameRenderer.Restart
+  isSpec: "True"
+  fullName: MasterMot.WordGameRenderer.Restart
+  nameWithType: WordGameRenderer.Restart

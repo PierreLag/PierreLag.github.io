@@ -1,0 +1,340 @@
+{
+  "source_base_path": "C:/Users/Pierre/Desktop/Projets Unity/Projet 3 MYG/DocFX",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/partie-solo.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/partie-solo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "Docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenCYInstruction.WaitForCompletion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenCYInstruction.WaitForCompletion.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenCYInstruction.WaitForKill.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenCYInstruction.WaitForKill.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenCYInstruction.WaitForPosition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenCYInstruction.WaitForPosition.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenCYInstruction.WaitForRewind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenCYInstruction.WaitForRewind.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenCYInstruction.WaitForStart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenCYInstruction.WaitForStart.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenCYInstruction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenCYInstruction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenModuleAudio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenModuleAudio.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenModulePhysics2D.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenModulePhysics2D.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenModuleSprite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenModuleSprite.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenModuleUI.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenModuleUI.Utils.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenModuleUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenModuleUI.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenModuleUnityVersion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenModuleUnityVersion.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenModuleUtils.Physics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenModuleUtils.Physics.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.DOTweenModuleUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.DOTweenModuleUtils.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DG.Tweening.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DG.Tweening.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MasterMot.APIManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MasterMot.APIManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MasterMot.AudioController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MasterMot.AudioController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MasterMot.GameManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MasterMot.GameManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MasterMot.InputController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MasterMot.InputController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MasterMot.PlayFabController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MasterMot.PlayFabController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MasterMot.UIController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MasterMot.UIController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MasterMot.WordGameController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MasterMot.WordGameController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MasterMot.WordGameRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MasterMot.WordGameRenderer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MasterMot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MasterMot.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
